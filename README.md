@@ -1,6 +1,6 @@
 ## Welcome!
 
-Website for INLG 2025.
+Code for the website for INLG 2026, the 19th International Conference on Natural Language Generation.
 
 Pull Requests for fixing typos, etc, welcome!
 
@@ -11,6 +11,7 @@ MiniConf was built by [Hendrik Strobelt](http://twitter.com/hen_str) and [Sasha 
 ### Building with Docker
 
 ```sh
-docker build -t inlg2025 .
-docker run -v .:/app -it inlg2025
+docker build -t inlg2026 .
+docker run -v .:/app -it inlg2026
 ```
+
