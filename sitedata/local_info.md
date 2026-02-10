@@ -1,6 +1,6 @@
 ### Venue
 
-INLG 2026 will take place in Utrecht, the Netherlands. Venue details TBD.
+INLG 2026 will take place at the [Spoorwegmuseum (The Railway Museum)](https://www.spoorwegmuseum.nl/), Utrecht, the Netherlands.
 
 
 ### Excursion

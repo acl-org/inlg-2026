@@ -1,6 +1,6 @@
 ## Call for Sponsors
 
-We invite your organization to partner with us for the 19th International Conference on Natural Language Generation (INLG 2026). This year, INLG will be held in Utrecht, the Netherlands, from October 17 to 21, 2026. Venue TBD.
+We invite your organization to partner with us for the 19th International Conference on Natural Language Generation (INLG 2026). This year, INLG will be held at the Spoorwegmuseum (The Railway Museum), Utrecht, the Netherlands, from October 17 to 21, 2026.
 
 ### About INLG 2026
 
