@@ -1,14 +1,14 @@
 ## Call for Sponsors
 
-We invite your organization to partner with us for the 18th International Conference on Natural Language Generation (INLG 2025). This year, INLG will be held in the vibrant city of Hanoi, Vietnam, from October 29 to November 2, 2025, at [Vietnam Institute for Advanced Study in Mathematics](https://www.google.com/maps/place/Vietnam+Institute+for+Advanced+Study+in+Mathematics/@21.02336,105.7984799,17.25z/data=!4m6!3m5!1s0x3135ab8ab9ac1a5d:0x34d19fd7f6e272ee!8m2!3d21.0225854!4d105.8033928!16s%2Fg%2F11fyzfkc3m?entry=tts&g_ep=EgoyMDI1MDExNS4wIPu8ASoASAFQAw%3D%3D).
+We invite your organization to partner with us for the 19th International Conference on Natural Language Generation (INLG 2026). This year, INLG will be held in Utrecht, the Netherlands, from October 17 to 21, 2026. Venue TBD.
 
-### About INLG 2025
+### About INLG 2026
 
 INLG is a leading specialist conference for natural language generation and has been held regularly since the late 1980s. Organised by the Special Interest Group in Generation (SIGGEN) of the Association for Computational Linguistics (ACL), it generally attracts attendees from universities & corporate research labs across the globe.
 
-### Why Sponsor INLG 2025?
+### Why Sponsor INLG 2026?
 
-Sponsoring INLG 2025 offers a great opportunity to elevate your brand's visibility, connect with top talent, and demonstrate your support in advancing research in NLG. Your support directly fuels this vital conference, fostering innovation and collaboration within the NLG community.
+Sponsoring INLG 2026 offers a great opportunity to elevate your brand's visibility, connect with top talent, and demonstrate your support in advancing research in NLG. Your support directly fuels this vital conference, fostering innovation and collaboration within the NLG community.
 
 
 ## Sponsorship Tiers
@@ -46,6 +46,6 @@ We offer four distinct sponsorship levels, each designed to provide unique benef
 <b>Important Note</b>: Due to limited venue space, we encourage early commitment for Silver and Gold sponsorships as recruitment for these levels may close at any time.
 
 
-To learn more about sponsorship opportunities and to discuss how your organization can benefit from partnering with INLG 2025, please do not hesitate to contact our Sponsorship Chair, Shreyas Sharma at **<a href="mailto:shreyas.sharma@aixplain.com">shreyas.sharma@aixplain.com</a>**. 
+To learn more about sponsorship opportunities and to discuss how your organization can benefit from partnering with INLG 2026, please do not hesitate to contact our Sponsorship Chair (TBD). 
  
 

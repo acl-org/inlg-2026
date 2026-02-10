@@ -1,79 +1,9 @@
 ### Welcome to INLG 2026!
 
-The **19th International Conference on Natural Language Generation** will be in Utrecht, the Netherlands, in October 2026, just before EMNLP 2026 in Hungary.
+The **19th International Conference on Natural Language Generation** will be in Utrecht, the Netherlands, October 17-21, 2026, just before EMNLP 2026 in Hungary.
 
 #### News
 
-<!--table>
-  <tbody>
-  <tr>
-    <td style="white-space: nowrap;"><b>Nov 2</b></td>
-    <td><span style="color:red">NEW!</span> <a href="/awards.html">Awards information</a> is now available.</td>
-  </tr>
-  <tr>
-    <td style="white-space: nowrap;"><b>Oct 31</b></td>
-    <td><span style="color:red">NEW!</span> <a href="/banquet.html">Banquet information</a> is now available.</td>
-  </tr>
-  <tr>
-    <td style="white-space: nowrap;"><b>Oct 30</b></td>
-    <td><span style="color:red">NEW!</span> <a target="_blank" href="https://bit.ly/inlg2025">INLG 2025 Proceedings</a> are now available.</td>
-  </tr>
-  <tr>
-    <td style="white-space: nowrap;"><b>Oct 14</b></td>
-    <td><span style="color:red">NEW!</span> <a href="/presentation-manual.html#poster-presentation-guidelines">Poster Presentation Guidelines</a> are now available.</td>
-  </tr>
-  <tr>
-    <td style="white-space: nowrap;"><b>Oct 12</b></td>
-    <td><span style="color:red">NEW!</span> <a href="/keynotes.html">Titles and Abstracts of Keynotes</a> are now available.</td>
-  </tr>
-  <tr>
-    <td style="white-space: nowrap;"><b>Oct 1</b></td>
-    <td><span style="color:red">NEW!</span> <a href="/program.html">Program</a> is now available.</td>
-  </tr>
-  <tr>
-    <td style="white-space: nowrap;"><b>Sep 16</b></td>
-    <td><span style="color:red">NEW!</span> <a href="/local-info.html#visitor-handbook">Visitor Handbook</a> is now available.</td>
-  </tr>
-  <tr>
-    <td style="white-space: nowrap;"><b>Sep 15</b></td>
-    <td><span style="color:red">NEW!</span> <a href="/registration.html">Registration</a> is now available.</td>
-  </tr>
-  <tr>
-    <td style="white-space: nowrap;"><b>Jul 22</b></td>
-    <td><span style="color:red">NEW!</span> <a href="/workshops-tutorials.html">Call for Papers (Workshops & Tutorials)</a> is now available.</td>
-  </tr>
-  </tbody>
-</table -->
-
 #### Important Dates (TBD)
 All deadlines are Anywhere on Earth (UTC-12)
-
-<!--table>
-  <tbody>
-    <tr>
-      <td style="white-space: nowrap;"><s>July 14</s> <br><span style="color:red"><b>July 18</b></span></td>
-      <td>START system regular paper submission deadline (extended to <span style="color:red"><b>July 18</b></span>)</td>
-    </tr>
-    <tr>
-      <td style="white-space: nowrap;"><b>Aug 7</b></td>
-      <td>ARR commitment ot INLG deadline via START system</td>
-    </tr>
-    <tr>
-      <td style="white-space: nowrap;"><b>July 24</b></td>
-      <td>START system demo paper submission deadline</td>
-    </tr>
-    <tr>
-      <td style="white-space: nowrap;"><b>Aug 21</b></td>
-      <td>Paper notification</td>
-    </tr>
-    <tr>
-      <td style="white-space: nowrap;"><b>Sep 15</b></td>
-      <td>Camera-ready submission deadline</td>
-    </tr>
-    <tr>
-      <td style="white-space: nowrap;"><b>Oct 29 - Nov 2</b></td>
-      <td>INLG 2025 Conference</td>
-    </tr>
-  </tbody>
-</table -->
 

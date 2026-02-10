@@ -1,26 +1,22 @@
 private: false
-name: INLG 2025
-tagline: INLG 2025
-date: October 29 - November 2, 2025
-place: Hanoi, Vietnam
+name: INLG 2026
+tagline: INLG 2026
+date: October 17 - 21, 2026
+place: Utrecht, the Netherlands
 citation_date: TBA
-proceedings_title: Proceedings of the 18th International Natural Language Generation Conference
+proceedings_title: Proceedings of the 19th International Natural Language Generation Conference
 analytics: UA-
 logo:
   image: static/images/inlg_logo.png
 # uncomment the following line to show the site title next to the logo image
 site_title:
 page_title:
-  prefix: "INLG 2025"
+  prefix: "INLG 2026"
   separator: ": "
 background_image: 
   main: static/images/viasm_banner_v2.png
-  substitutes: 
-    - "static/images/One Pillar Pagoda Hanoi.jpg"
-    - "static/images/Ho Chi Minh Mausoleum.jpg"
-    - "static/images/Attractions Hanoi Vietnam Tourism-2_0.jpg"
-    - "static/images/Temple of Literature Hanoi.jpg"
-organization: INLG 2025 Organizers
+  substitutes: []
+organization: INLG 2026 Organizers
 
 calendar:
   colors: #  Colors for the different event hashtags:
