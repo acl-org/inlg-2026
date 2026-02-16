@@ -16,36 +16,16 @@ Sponsoring INLG 2026 offers a great opportunity to elevate your brand's visibili
 We offer four distinct sponsorship levels, each designed to provide unique benefits and maximize your exposure: Bronze, Silver, Gold, and Diamond.
 
 
-### Bronze Sponsorship: $500 (USD)
-- <b>Logo Placement</b>: Your company's logo will be displayed on the INLG website, included in the program, and featured on slides during the conference (small size).
-- <b>Social Media and Email Features</b>: Mentions in our emails and social media.
-- <b>Conference Bag Inclusion</b>: Opportunity to include one novelty item of your choice in the conference bags.
+### Bronze Sponsorship:
+Coming Soon
 
-### Silver Sponsorship: $1300 (USD)
-- <b>Complimentary Registration</b>: Receive one complimentary registration for the main conference and workshop, including invitations to the banquet, reception, and lunch.
-- <b>Enhanced Logo Placement</b>: Your company's logo will be more prominently displayed on the INLG website, in the official program, and on conference slides (medium size).
-- <b>Dedicated Physical Space</b>: Secure a small space within the physical sponsor’s area, providing a direct point of contact with attendees.
-- <b>Increased Conference Bag Inclusion</b>: Opportunity to include up to two novelty items in the conference bags.
+### Silver Sponsorship:
+Coming Soon
 
-### Gold Sponsorship: $2700  (USD)
-- <b>Two Complimentary Registration</b>: Two complimentary registrations for the main conference and workshop, along with invitations to the banquet, reception, and lunch.
-- <b>Special Ceremony Mentions</b>: Your organization will receive special mention at both the Opening Ceremony and Closing Session.
-- <b>Premium Logo Placement</b>: Your company's logo will be more prominently displayed on the INLG website, in the official program, and on conference slides (large size).
-- <b>Generous Physical Space</b>: Secure a larger space within the physical sponsor’s area, providing a more extensive presence for engagement with the attendees.
-- <b>Increased Conference Bag Inclusion</b>: Opportunity to include up to two novelty items in the conference bags.
+### Gold Sponsorship:
+Coming Soon
 
-### Diamond Sponsorship: $5000 (USD) - (Only One Available!)
-- <b>Three Complimentary Registration</b>: Three complimentary registrations for the main conference and workshop, including invitations to the banquet, reception, and lunch.
-- <b>Short Presentation Opportunity</b>: Deliver a 15-minute presentation during the main conference, providing a unique platform to showcase your research or initiatives to a relevant audience.
-- <b>Special Ceremony Mentions</b>: Your organization will receive special mention at both the Opening Ceremony and Closing Session.
-- <b>Full-Page Conference Ad</b>: Feature a full-page advertisement in both the PDF and printed versions of the Conference Programme, ensuring extensive reach.
-- <b>Premium Logo Placement</b>: Your company's logo will be more prominently displayed on the INLG website, in the official program, and on conference slides (large size).
-- <b>Generous Physical Space</b>: Secure a larger space within the physical sponsor’s area, providing a more extensive presence for engagement with the attendees.
-- <b>Maximized Conference Bag Inclusion</b>: Opportunity to include up to four novelty items in the conference bags.
-
-<b>Important Note</b>: Due to limited venue space, we encourage early commitment for Silver and Gold sponsorships as recruitment for these levels may close at any time.
-
-
-To learn more about sponsorship opportunities and to discuss how your organization can benefit from partnering with INLG 2026, please do not hesitate to contact our Sponsorship Chair (TBD). 
+### Diamond Sponsorship:
+Coming Soon 
  
 
