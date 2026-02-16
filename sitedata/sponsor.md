@@ -13,19 +13,6 @@ Sponsoring INLG 2026 offers a great opportunity to elevate your brand's visibili
 
 ## Sponsorship Tiers
 
-We offer four distinct sponsorship levels, each designed to provide unique benefits and maximize your exposure: Bronze, Silver, Gold, and Diamond.
-
-
-### Bronze Sponsorship:
 Coming Soon
-
-### Silver Sponsorship:
-Coming Soon
-
-### Gold Sponsorship:
-Coming Soon
-
-### Diamond Sponsorship:
-Coming Soon 
  
 
