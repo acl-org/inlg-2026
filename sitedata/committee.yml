@@ -29,6 +29,11 @@ groups:
         url: https://ruthenian8.github.io/.github.io/
 
       - role: Local Organizer
+        name: Dongxu Lu
+        aff: Utrecht University
+        im: static/images/organizers/dongxu_lu.jpg
+
+      - role: Local Organizer
         name: Menan Velayuthan
         aff: Utrecht University
         im: static/images/organizers/menan_velayuthan.jpg
