@@ -17,9 +17,9 @@ groups:
         url: https://amirhosein.nl/
 
       - role: Local Organizer
-        name: Anna Maria Wegmann
+        name: Anna Wegmann
         aff: Utrecht University
-        im: static/images/organizers/anna_maria_wegmann.jpeg
+        im: static/images/organizers/anna_wegmann.jpeg
         url: https://annawegmann.github.io/
 
       - role: Local Organizer
