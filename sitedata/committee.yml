@@ -3,4 +3,34 @@ groups:
     members: []
 
   - title: Local Organization Committee
-    members: []
+    members: 
+      - role: Local Organizer
+        name: Albert Gatt
+        aff: Utrecht University
+        im: static/images/organizers/albert_gatt.jpeg
+        url: https://albertgatt.github.io/
+
+      - role: Local Organizer
+        name: Amirhossein Mohammadi
+        aff: Utrecht University
+        im: static/images/organizers/amirhossein_mohammadi.jpeg
+        url: https://amirhosein.nl/
+
+      - role: Local Organizer
+        name: Anna Maria Wegmann
+        aff: Utrecht University
+        im: static/images/organizers/anna_maria_wegmann.jpeg
+        url: https://annawegmann.github.io/
+
+      - role: Local Organizer
+        name: Daniil Ignatev
+        aff: Utrecht University
+        im: static/images/organizers/daniil_ignatev.jpg
+        url: https://ruthenian8.github.io/.github.io/
+
+      - role: Local Organizer
+        name: Menan Velayuthan
+        aff: Utrecht University
+        im: static/images/organizers/menan_velayuthan.jpg
+        url: https://vmenan.github.io/
+      
