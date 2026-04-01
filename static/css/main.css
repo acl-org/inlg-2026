@@ -9,7 +9,7 @@ body a:hover {
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color: rgba(236, 241, 246, 0.55);
+  background-color: rgba(236, 241, 246, 1);
 }
 
 .container a:hover {
