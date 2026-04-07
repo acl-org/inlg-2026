@@ -37,7 +37,7 @@ groups:
       - role: Local Organizer
         name: Hugh Mee Wong
         aff: Utrecht University
-        im: static/images/organizers/hugh_mee_wong.jpg
+        im: static/images/organizers/hugh_mee_wong.jpeg
         url: https://www.uu.nl/staff/HMWong
 
       - role: Local Organizer
