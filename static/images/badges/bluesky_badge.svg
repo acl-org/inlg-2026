@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="40" viewBox="0 0 160 40" role="img" aria-label="Bluesky badge">
+  <rect width="160" height="40" rx="20" fill="#0285FF"/>
+  <circle cx="22" cy="20" r="13" fill="#FFFFFF"/>
+  <text x="22" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#0285FF">B</text>
+  <text x="45" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Bluesky</text>
+</svg>
