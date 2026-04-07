@@ -35,6 +35,12 @@ groups:
         url: https://www.uu.nl/medewerkers/DLu
 
       - role: Local Organizer
+        name: Hugh Mee Wong
+        aff: Utrecht University
+        im: static/images/organizers/hugh_mee_wong.jpg
+        url: https://www.uu.nl/staff/HMWong
+
+      - role: Local Organizer
         name: Menan Velayuthan
         aff: Utrecht University
         im: static/images/organizers/menan_velayuthan.jpg
