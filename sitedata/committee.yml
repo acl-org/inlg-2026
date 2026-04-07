@@ -46,3 +46,8 @@ groups:
         im: static/images/organizers/menan_velayuthan.jpg
         url: https://vmenan.github.io/
       
+      - role: Local Organizer
+        name: Nan Li
+        aff: Utrecht University
+        im: static/images/organizers/nan_li.jpg
+        url: https://www.uu.nl/medewerkers/NLi
