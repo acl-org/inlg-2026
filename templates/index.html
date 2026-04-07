@@ -74,6 +74,47 @@
     display: block;
     text-align: center;
   }
+
+  .social-row {
+    margin-top: 2rem;
+  }
+
+  .social-title {
+    font-weight: 600;
+    font-style: italic;
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+  }
+
+  .social-badges {
+    display: flex;
+    gap: 0.8rem;
+    flex-wrap: wrap;
+  }
+
+  .social-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.45rem 0.8rem;
+    border-radius: 999px;
+    color: #fff;
+    font-weight: 600;
+    font-size: 0.95rem;
+  }
+
+  .social-badge:hover {
+    color: #fff;
+    opacity: 0.92;
+  }
+
+  .social-badge.bluesky {
+    background: #1185fe;
+  }
+
+  .social-badge.linkedin {
+    background: #0a66c2;
+  }
 </style>
 
 {% macro display_sponsors(sponsor, logo_class, logo_size) %}
@@ -99,6 +140,15 @@
       {{ home | markdown }}
     </div>
   </div>
+
+  <div class="row border p-4 social-row">
+    <div class="social-title">Follow us on socials for more information</div>
+    <div class="social-badges">
+      <a class="social-badge bluesky" href="https://bsky.app/profile/inlg.bsky.social" target="_blank" rel="noopener noreferrer">Bluesky</a>
+      <a class="social-badge linkedin" href="https://www.linkedin.com/company/107765137" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+    </div>
+  </div>
+
   <div class="row border p-4" style="margin-top: 2rem; display: flex; flex-direction: column; gap: 2rem;">
     <div class="supporters-container">
       <div class="supporters-title">Supported by</div>
