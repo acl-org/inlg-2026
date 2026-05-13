@@ -19,11 +19,6 @@ groups:
         im: static/images/organizers/placeholder_silhouette.svg
         url: https://a-quei.github.io/
 
-      - role: Workshop Chair
-        name: Daniil Ignatev
-        aff: Utrecht University
-        im: static/images/organizers/daniil_ignatev.jpg
-        url: https://ruthenian8.github.io/.github.io/
 
   - title: Local Organization Committee
     members: 
