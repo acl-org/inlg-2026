@@ -8,16 +8,16 @@ groups:
         url: https://emielvanmiltenburg.nl/
 
       - role: Program Chair
-        name: Laura Perez
-        aff: The University of Edinburgh
-        im: static/images/organizers/laura_perez.jpg
-        url: https://homepages.inf.ed.ac.uk/lperez/
-
-      - role: Program Chair
         name: Guanyi Chen
         aff: Central China Normal University
         im: static/images/organizers/placeholder_silhouette.svg
         url: https://a-quei.github.io/
+
+      - role: Program Chair
+        name: Laura Perez
+        aff: The University of Edinburgh
+        im: static/images/organizers/laura_perez.jpg
+        url: https://homepages.inf.ed.ac.uk/lperez/
 
 
   - title: Local Organization Committee
