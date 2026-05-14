@@ -19,6 +19,14 @@ groups:
         im: static/images/organizers/laura_perez.jpg
         url: https://homepages.inf.ed.ac.uk/lperez/
 
+      - role: Workshop Chair
+        name: Jian Yang
+        aff: Beihang University
+        im: static/images/organizers/placeholder_silhouette.svg
+        url: https://research.buaa.edu.cn/en/persons/jian-yang-2/
+  
+  
+
 
   - title: Local Organization Committee
     members: 
