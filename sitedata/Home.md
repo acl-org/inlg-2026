@@ -26,3 +26,5 @@ All deadlines are **Anywhere on Earth (UTC-12)**.
 - Notification of acceptance: **September 1, 2026**
 - Camera-ready papers due: **September 16, 2026**
 
+For more details, check out the [Calls page](/calls.html).
+
