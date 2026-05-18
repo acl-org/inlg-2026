@@ -1,4 +1,4 @@
-## INLG2026 Call for Workshop & Tutorial Proposals
+## NLG 2026: First Call for Workshop & Tutorial Proposals
 
 The 19th International Conference on Natural Language Generation (INLG 2026) will be held in Utrecht, Netherlands, from October 17-21, 2026. Building on the success of previous conferences, we aim to include a diverse range of independently organized research workshops and tutorials, which will take place immediately before or after the main conference. The INLG organizers, in collaboration with SIGGEN, warmly invite proposals for one-day or half-day workshops.
 
