@@ -15,8 +15,10 @@ Program chairs will be Laura Perez, Guanyi Chen, and myself. We have a great tea
 
 We now have two submission venues:
 
-- Direct submissions: [Direct Submission Link](https://openreview.net/group?id=aclweb.org/INLG/2026/Conference_Direct_Submissions)
-- ARR commitments: [ARR Submission Link](https://openreview.net/group?id=aclweb.org/INLG/2026/Conference_ARR_Commitment)
+<ul>
+<li>Direct submissions: <a href="https://openreview.net/group?id=aclweb.org/INLG/2026/Conference_Direct_Submissions#tab-recent-activity">Direct Submission Link</a></li>
+<li>ARR commitments: <a href="https://openreview.net/group?id=aclweb.org/INLG/2026/Conference_ARR_Commitment#tab-recent-activity">ARR Submission Link</a></li>
+</ul>
 
 </div>
 
