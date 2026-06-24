@@ -53,6 +53,13 @@ INLG 2026 solicits papers on any topic related to NLG. General topics of interes
 
 This year's INLG will have two tracks: an **archival track** where papers will be published in the ACL Anthology, and a **non-archival track** for works in progress and papers published elsewhere.
 
+<span style="color: red; font-weight: 700;">NEW</span> INFORMATION
+
+We now have two submission venues:
+
+- Direct submissions: [Direct Submission Link](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fopenreview.net%2Fgroup%3Fid%3Daclweb.org%2FINLG%2F2026%2FConference_Direct_Submissions&data=05%7C02%7Cm.velayuthan%40UU.NL%7C28f68f63a5c64fcfcf8d08ded1820803%7Cd72758a0a4464e0fa0aa4bf95a4a10e7%7C0%7C0%7C639178553736492969%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=DBynfx5gonjOgVmqNIb%2BJrGoeUfqoaBV8QDUBHUUUuM%3D&reserved=0)
+- ARR commitments: [ARR Submission Link](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fopenreview.net%2Fgroup%3Fid%3Daclweb.org%2FINLG%2F2026%2FConference_ARR_Commitment&data=05%7C02%7Cm.velayuthan%40UU.NL%7C28f68f63a5c64fcfcf8d08ded1820803%7Cd72758a0a4464e0fa0aa4bf95a4a10e7%7C0%7C0%7C639178553736523319%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=v6RV%2BCY8sc%2Bh6vimmOj5p5OW9LA5cTC%2B8y%2FvkAnx3FU%3D&reserved=0)
+
 Three kinds of papers can be submitted for the archival track:
 
 - **Long papers** are most appropriate for presenting substantial research results and must not exceed eight (8) pages of content, plus unlimited pages of ethical considerations, supplementary material statements, and references. The supplementary material statement provides detailed descriptions to support the reproduction of the results presented in the paper (see below for details). The final versions of long papers will be given one additional page of content (up to 9 pages) so that reviewers' comments can be taken into account.
