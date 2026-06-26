@@ -179,7 +179,10 @@ def tutorials_cfp(tutorial_id):
     data = _data()
     for tut in site_data['tutorials']['tutorials']:
         if tut['id'] == tutorial_id:
-            data["mdcontent"] = open("sitedata/"+tut['md_file']).read()
+            if 'md_file' in tut:
+                data["mdcontent"] = open("sitedata/" + tut['md_file']).read()
+            else:
+                data["mdcontent"] = tut.get('bodytext', '')
             break
     else:
         raise ValueError("Not found!")
