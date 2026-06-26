@@ -2,24 +2,71 @@
 
 The **19th International Conference on Natural Language Generation** will be in Utrecht, the Netherlands, October 17-21, 2026, just before EMNLP 2026 in Hungary.
 
+<style>
+	.news-card {
+		margin-top: 1rem;
+		border-radius: 1rem;
+		overflow: hidden;
+		background: #f5f5f5;
+	}
+
+	.news-item {
+		display: grid;
+		grid-template-columns: 4.5rem 1fr;
+		gap: 1.25rem;
+		padding: 0.95rem 1.1rem;
+		align-items: start;
+	}
+
+	.news-item + .news-item {
+		border-top: 1px solid rgba(0, 0, 0, 0.04);
+	}
+
+	.news-date {
+		font-weight: 700;
+		color: #111;
+		line-height: 1.3;
+		white-space: nowrap;
+	}
+
+	.news-copy {
+		line-height: 1.45;
+	}
+
+	.news-label {
+		color: #ff0000;
+		font-weight: 700;
+	}
+
+	.news-copy a {
+		color: #2b7fc1;
+	}
+
+	@media (max-width: 576px) {
+		.news-item {
+			grid-template-columns: 1fr;
+			gap: 0.35rem;
+		}
+	}
+</style>
+
 #### News
 
-<div style="margin-bottom: 1rem;">
-<span style="color: red; font-weight: 700;">NEW</span> <strong>Program chairs announced</strong>
-
-Program chairs will be Laura Perez, Guanyi Chen and Emiel van Miltenburg. And a great team of local organizers, chaired by Albert Gatt.
+<div class="news-card">
+<div class="news-item">
+<div class="news-date">Jun 26</div>
+<div class="news-copy"><span class="news-label">NEW!</span> <a href="/workshops-tutorials.html">Selected Workshops &amp; Tutorials</a> are now available.</div>
 </div>
 
-<div style="margin-bottom: 1rem;">
-<span style="color: red; font-weight: 700;">NEW</span> <strong>Submission venues</strong>
+<div class="news-item">
+<div class="news-date">Jun 26</div>
+<div class="news-copy"><span class="news-label">NEW!</span> <strong>Program chairs announced</strong>. Program chairs will be Laura Perez, Guanyi Chen and Emiel van Miltenburg. A great team of local organizers is chaired by Albert Gatt.</div>
+</div>
 
-We now have two submission venues:
-
-<ul>
-<li>Direct submissions: <a href="https://openreview.net/group?id=aclweb.org/INLG/2026/Conference_Direct_Submissions#tab-recent-activity">Direct Submission Link</a></li>
-<li>ARR commitments: <a href="https://openreview.net/group?id=aclweb.org/INLG/2026/Conference_ARR_Commitment#tab-recent-activity">ARR Submission Link</a></li>
-</ul>
-
+<div class="news-item">
+<div class="news-date">Jun 26</div>
+<div class="news-copy"><span class="news-label">NEW!</span> <strong>Submission venues</strong>. We now have two submission venues: <a href="https://openreview.net/group?id=aclweb.org/INLG/2026/Conference_Direct_Submissions#tab-recent-activity">Direct submissions</a> and <a href="https://openreview.net/group?id=aclweb.org/INLG/2026/Conference_ARR_Commitment#tab-recent-activity">ARR commitments</a>.</div>
+</div>
 </div>
 
 #### Important Dates
