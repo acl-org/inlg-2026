@@ -27,9 +27,15 @@ groups:
 
       - role: Publication Chair
         name: Rudali Huidrom
-        aff: Beihang University
+        aff: Indraprastha Institute of Information Technology, Delhi
         im: static/images/organizers/rudali_huidrom.jpg
         url: https://scholar.google.com/citations?user=mQuoBfsAAAAJ&hl=en
+
+      - role: Sponsorship Chair
+        name: Robert Weissgraeber
+        aff: AX Semantics
+        im: static/images/organizers/robert_weissgraeber.jpg
+        url: https://axite.io/en/company/robert-weissgraeber
 
   
 
