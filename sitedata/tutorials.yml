@@ -1,1 +1,16 @@
-tutorials: []
+tutorials:
+  - id: alt-architectures
+    title: Alternative Architectures and Generative Paradigms for NLG
+    body: selected_workshops/alt-architectures.md
+  - id: aiwolfdial2026
+    title: The 4th Workshop of AI Werewolf and Dialog System 2026 (AIWolfDial2026)
+    body: selected_workshops/aiwolfdial2026.md
+  - id: ynlg2026
+    title: YNLG 2026 - The 2nd Workshop for Young Researchers in Natural Language Generation
+    body: selected_workshops/ynlg2026.md
+  - id: industrial-nlp
+    title: Workshop for Industrial NLP: NLP Research Towards Safety, Reliability, and Real-World Impact
+    body: selected_workshops/industrial-nlp.md
+  - id: beyond-leaderboards
+    title: Beyond Leaderboards: Evaluation Practices for Open-Ended and Perspectival NLG
+    body: selected_workshops/beyond-leaderboards.md
