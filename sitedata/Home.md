@@ -7,7 +7,7 @@ The **19th International Conference on Natural Language Generation** will be in 
 <div style="margin-bottom: 1rem;">
 <span style="color: red; font-weight: 700;">NEW</span> <strong>Program chairs announced</strong>
 
-Program chairs will be Laura Perez, Guanyi Chen, and myself. We have a great team of local organizers, chaired by Albert Gatt.
+Program chairs will be Laura Perez, Guanyi Chen and Emiel van Miltenburg. And a great team of local organizers, chaired by Albert Gatt.
 </div>
 
 <div style="margin-bottom: 1rem;">
