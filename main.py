@@ -21,8 +21,11 @@ def load_sitedata(site_data_path):
     extra_files = []
     # Load all for your sitedata one time.
     for f in glob.glob(site_data_path + "/*"):
+        if not os.path.isfile(f):
+            continue
         extra_files.append(f)
-        name, typ = f.split("/")[-1].split(".")
+        name, typ = os.path.splitext(os.path.basename(f))
+        typ = typ.lstrip(".")
         if typ == "json":
             site_data[name] = json.load(open(f))
         elif typ in {"csv", "tsv"}:

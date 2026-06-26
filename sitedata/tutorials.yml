@@ -1,16 +1,31 @@
 tutorials:
   - id: alt-architectures
-    title: Alternative Architectures and Generative Paradigms for NLG
-    body: selected_workshops/alt-architectures.md
+    title: "Alternative Architectures and Generative Paradigms for NLG"
+    bodytext: |
+      We are pleased to congratulate the organizers of this selected workshop for INLG 2026.
+
+      **Organizers:** Ruurd Kuiper (UMC Utrecht), Robert Bagheri (Utrecht University)
   - id: aiwolfdial2026
-    title: The 4th Workshop of AI Werewolf and Dialog System 2026 (AIWolfDial2026)
-    body: selected_workshops/aiwolfdial2026.md
+    title: "The 4th Workshop of AI Werewolf and Dialog System 2026 (AIWolfDial2026)"
+    bodytext: |
+      We are pleased to congratulate the organizers of this selected workshop for INLG 2026.
+
+      **Organizers:** Yoshinobu Kano (Shizuoka University, Japan), Claus Aranha (Tsukuba University, Japan), Takashi Otsuki (Yamagata University, Japan), Fujio Toriumi (The University of Tokyo, Japan), Hirotaka Osawa (Keio University, Japan), Daisuke Katagami (Tokyo Polytechnic University, Japan), Michimasa Inaba (The University of Electro-Communications, Japan), Kei Harada (The University of Electro-Communications, Japan), Takeshi Ito (The University of Electro-Communications, Japan)
   - id: ynlg2026
-    title: YNLG 2026 - The 2nd Workshop for Young Researchers in Natural Language Generation
-    body: selected_workshops/ynlg2026.md
+    title: "YNLG 2026 - The 2nd Workshop for Young Researchers in Natural Language Generation"
+    bodytext: |
+      We are pleased to congratulate the organizers of this selected workshop for INLG 2026.
+
+      **Organizers:** Nils Feldhus (TU Berlin, BIFOLD), Rudali Huidrom (Dublin City University, ADAPT), Kristyna Onderkova (Charles University), Adarsa Sivaprasad (University of Aberdeen), Patricia Schmidtova (Charles University)
   - id: industrial-nlp
-    title: Workshop for Industrial NLP: NLP Research Towards Safety, Reliability, and Real-World Impact
-    body: selected_workshops/industrial-nlp.md
+    title: "Workshop for Industrial NLP: NLP Research Towards Safety, Reliability, and Real-World Impact"
+    bodytext: |
+      We are pleased to congratulate the organizers of this selected workshop for INLG 2026.
+
+      **Organizers:** Yizhi Li (University of Manchester), Yi Zhou (Cardiff University), Jingcheng Niu (TU Darmstadt), Haau-sing Li (TU Darmstadt and Instituto de Telecomunicações), Joanne Boisson (Cardiff University), Yi Qi (University of Leeds)
   - id: beyond-leaderboards
-    title: Beyond Leaderboards: Evaluation Practices for Open-Ended and Perspectival NLG
-    body: selected_workshops/beyond-leaderboards.md
+    title: "Beyond Leaderboards: Evaluation Practices for Open-Ended and Perspectival NLG"
+    bodytext: |
+      We are pleased to congratulate the organizers of this selected workshop for INLG 2026.
+
+      **Organizers:** Christina Niklaus (University of St.Gallen), Thomas Huber (University of St.Gallen)
