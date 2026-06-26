@@ -59,12 +59,12 @@ The **19th International Conference on Natural Language Generation** will be in 
 </div>
 
 <div class="news-item">
-<div class="news-date">Jun 26</div>
-<div class="news-copy"><span class="news-label">NEW!</span> <strong>Program chairs announced</strong>. Program chairs will be Laura Perez, Guanyi Chen and Emiel van Miltenburg. A great team of local organizers is chaired by Albert Gatt.</div>
+<div class="news-date">Jun 21</div>
+<div class="news-copy"><span class="news-label">NEW!</span> <strong>Program chairs announced</strong>. Program chairs will be Emiel van Miltenburg, Laura Perez and Guanyi Chen. A great team of local organizers is chaired by Albert Gatt.</div>
 </div>
 
 <div class="news-item">
-<div class="news-date">Jun 26</div>
+<div class="news-date">Jun 21</div>
 <div class="news-copy"><span class="news-label">NEW!</span> <strong>Submission venues</strong>. We now have two submission venues: <a href="https://openreview.net/group?id=aclweb.org/INLG/2026/Conference_Direct_Submissions#tab-recent-activity">Direct submissions</a> and <a href="https://openreview.net/group?id=aclweb.org/INLG/2026/Conference_ARR_Commitment#tab-recent-activity">ARR commitments</a>.</div>
 </div>
 </div>

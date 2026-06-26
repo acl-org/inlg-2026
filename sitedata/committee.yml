@@ -4,7 +4,7 @@ groups:
       - role: Program Chair
         name: Emiel van Miltenburg
         aff: Tilburg University
-        im: static/images/organizers/placeholder_silhouette.svg
+        im: static/images/organizers/emiel_van_miltenburg.jpg
         url: https://emielvanmiltenburg.nl/
 
       - role: Program Chair
@@ -24,7 +24,13 @@ groups:
         aff: Beihang University
         im: static/images/organizers/placeholder_silhouette.svg
         url: https://research.buaa.edu.cn/en/persons/jian-yang-2/
-  
+
+      - role: Publication Chair
+        name: Rudali Huidrom
+        aff: Beihang University
+        im: static/images/organizers/rudali_huidrom.jpg
+        url: https://scholar.google.com/citations?user=mQuoBfsAAAAJ&hl=en
+
   
 
 
