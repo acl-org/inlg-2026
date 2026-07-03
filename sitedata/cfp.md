@@ -76,7 +76,7 @@ Through the **non-archival track**, we hope to foster more discussion on current
 Submissions for the non-archival track will undergo a light review process (assessing the relevance of the submission for INLG), and accepted works will be presented as posters.
 
 ### Format
-Submissions should follow [ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines) and policies for submission, review and citation, and be anonymised for double blind reviewing. Please use ACL style files; LaTeX style files and Microsoft Word templates are available at [https://acl-org.github.io/ACLPUB/formatting.html](https://acl-org.github.io/ACLPUB/formatting.html).
+Submissions should follow [ACL Author Guidelines](https://acl-org.github.io/ACLPUB/formatting.html) and policies for submission, review and citation, and be anonymised for double blind reviewing. Please use ACL style files; LaTeX style files and Microsoft Word templates are available at [https://acl-org.github.io/ACLPUB/formatting.html](https://acl-org.github.io/ACLPUB/formatting.html).
 
 Authors must honor the ethical code set out in the [ACL Code of Ethics](https://www.aclweb.org/portal/content/acl-code-ethics). If your work raises any ethical issues, you should include an explicit discussion of those issues. This will also be taken into account in the review process. You may find this checklist of use.
 
