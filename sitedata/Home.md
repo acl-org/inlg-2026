@@ -55,7 +55,7 @@ The **19th International Conference on Natural Language Generation** will be in 
 <div class="news-card">
 <div class="news-item">
 <div class="news-date">Jul 14</div>
-<div class="news-copy"><span class="news-label">NEW!</span> <strong>Deadline extension</strong>. The deadlines have been extended to July 18, 2026 (AoE).</div>
+<div class="news-copy"><span class="news-label">NEW!</span> <strong>Deadline extension</strong>. <s>The deadlines</s> have been extended to July 18, 2026 (AoE).</div>
 </div>
 
 <div class="news-item">
@@ -79,8 +79,8 @@ All deadlines are **Anywhere on Earth (UTC-12)**.
 
 ##### Call for Papers
 
-- Regular paper submission deadline: ~~July 15, 2026~~ **July 18, 2026 (AoE)**
-- System demo paper submission deadline: ~~July 15, 2026~~ **July 18, 2026 (AoE)**
+- Regular paper submission deadline: <s>July 15, 2026</s> **July 18, 2026 (AoE)**
+- System demo paper submission deadline: <s>July 15, 2026</s> **July 18, 2026 (AoE)**
 - ARR commitment to INLG deadline: **August 5, 2026**
 - Notification: **August 15, 2026**
 - Non-archival submission deadline: **August 22, 2026**
