@@ -10,8 +10,8 @@ The event is organized under the auspices of the Special Interest Group on Natur
 
 All deadlines are **Anywhere on Earth (UTC-12)**.
 
-- Regular paper submission deadline: **July 15, 2026**
-- System demo paper submission deadline: **July 15, 2026**
+- Regular paper submission deadline: ~~July 15, 2026~~ **July 18, 2026 (AoE)**
+- System demo paper submission deadline: ~~July 15, 2026~~ **July 18, 2026 (AoE)**
 - ARR commitment to INLG deadline: **August 5, 2026**
 - Notification: **August 15, 2026**
 - Non-archival submission deadline: **August 22, 2026**
@@ -82,9 +82,9 @@ Authors must honor the ethical code set out in the [ACL Code of Ethics](https://
 
 Authors are strongly encouraged to ensure that their work is reproducible; see, e.g., the following [reproducibility checklist](https://aclrollingreview.org/responsibleNLPresearch/). Papers involving any kind of experimental results (human judgments, system outputs, etc) should incorporate a data availability statement into their paper. Authors are asked to indicate whether the data is made publicly available. If the data is not made available, authors should provide a brief explanation why. (E.g. because the data contains proprietary information.) A statement guide is available on the INLG 2026 website.
 
-To submit a long or short paper to INLG 2026, authors can either submit directly or commit a paper previously reviewed by ARR. For direct submissions, the deadline for submitting papers is July 15, 2026, 11:59:59 PM (Anywhere on Earth). If committing an ARR paper to INLG, the submission is also made through the INLG 2026 paper submission site, indicating the link of the paper on OpenReview. The deadline for committing an ARR paper to INLG is August 5, 2026, 11:59:59 PM AOE, and the last eligible ARR paper submission deadline for INLG 2026 is May 25, 2026.
+To submit a long or short paper to INLG 2026, authors can either submit directly or commit a paper previously reviewed by ARR. For direct submissions, the deadline for submitting papers is ~~July 15, 2026~~ **July 18, 2026**, 11:59:59 PM (Anywhere on Earth). If committing an ARR paper to INLG, the submission is also made through the INLG 2026 paper submission site, indicating the link of the paper on OpenReview. The deadline for committing an ARR paper to INLG is August 5, 2026, 11:59:59 PM AOE, and the last eligible ARR paper submission deadline for INLG 2026 is May 25, 2026.
 
-Demo papers should be submitted directly through the INLG 2026 paper submission site by July 15, 2026, 11:59:59 PM AOE.
+Demo papers should be submitted directly through the INLG 2026 paper submission site by ~~July 15, 2026~~ **July 18, 2026**, 11:59:59 PM AOE.
 
 All accepted papers will be published in the INLG 2026 proceedings and included in the ACL anthology. A paper accepted for presentation at INLG 2026 must not have been presented at any other meeting with publicly available proceedings. Dual submission to other conferences is permitted, provided that authors clearly indicate this in the submission form. If the paper is accepted at both venues, the authors will need to choose which venue to present at, since they can not present the same paper twice. Submitted papers for review at INLG 2026 must not be published elsewhere until after the notification of acceptance. Finally, at least one of the authors of an accepted paper must register to attend the conference.
 
