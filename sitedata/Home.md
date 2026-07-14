@@ -55,7 +55,7 @@ The **19th International Conference on Natural Language Generation** will be in 
 <div class="news-card">
 <div class="news-item">
 <div class="news-date">Jul 14</div>
-<div class="news-copy"><span class="news-label">NEW!</span> <strong>Deadline extension</strong>. The regular paper and system demo submission deadlines have been extended to July 18, 2026 (AoE).</div>
+<div class="news-copy"><span class="news-label">NEW!</span> <strong>Deadline extension</strong>. The deadlines have been extended to July 18, 2026 (AoE).</div>
 </div>
 
 <div class="news-item">
@@ -65,12 +65,12 @@ The **19th International Conference on Natural Language Generation** will be in 
 
 <div class="news-item">
 <div class="news-date">Jun 21</div>
-<div class="news-copy"><span class="news-label">NEW!</span> <strong>Program chairs announced</strong>. Program chairs will be Emiel van Miltenburg, Laura Perez and Guanyi Chen. A great team of local organizers is chaired by Albert Gatt.</div>
+<div class="news-copy"> <strong>Program chairs announced</strong>. Program chairs will be Emiel van Miltenburg, Laura Perez and Guanyi Chen. A great team of local organizers is chaired by Albert Gatt.</div>
 </div>
 
 <div class="news-item">
 <div class="news-date">Jun 21</div>
-<div class="news-copy"><span class="news-label">NEW!</span> <strong>Submission venues</strong>. We now have two submission venues: <a href="https://openreview.net/group?id=aclweb.org/INLG/2026/Conference_Direct_Submissions#tab-recent-activity">Direct submissions</a> and <a href="https://openreview.net/group?id=aclweb.org/INLG/2026/Conference_ARR_Commitment#tab-recent-activity">ARR commitments</a>.</div>
+<div class="news-copy"> <strong>Submission venues</strong>. We now have two submission venues: <a href="https://openreview.net/group?id=aclweb.org/INLG/2026/Conference_Direct_Submissions#tab-recent-activity">Direct submissions</a> and <a href="https://openreview.net/group?id=aclweb.org/INLG/2026/Conference_ARR_Commitment#tab-recent-activity">ARR commitments</a>.</div>
 </div>
 </div>
 
