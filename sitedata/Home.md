@@ -55,7 +55,7 @@ The **19th International Conference on Natural Language Generation** will be in 
 <div class="news-card">
 <div class="news-item">
 <div class="news-date">Jul 14</div>
-<div class="news-copy"><span class="news-label">NEW!</span> <strong>Deadline extension</strong>. <strong>The deadlines</strong> have been extended to July 18, 2026 (AoE).</div>
+<div class="news-copy"><span class="news-label">NEW!</span> <strong>Deadline extension</strong>.The deadlines have been extended to July 18, 2026 (AoE).</div>
 </div>
 
 <div class="news-item">
