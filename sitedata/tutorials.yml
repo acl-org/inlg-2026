@@ -1,4 +1,16 @@
 tutorials:
+  - id: longform-challenge
+    title: "Long-Form Analogy Evaluation Challenge"
+    bodytext: |
+      A shared task focused on automatically evaluating generated analogies for explaining Computer Science concepts. The shared task will be co-located with INLG 2026 (https://2026.inlgmeeting.org/), and participants will have the opportunity to write a paper describing their system and approach.
+
+      [Competition (deadline: 01.08)](https://huggingface.co/spaces/analogy-evaluation/Analogy-Evaluation-Challenge)
+      
+      [Dataset](https://huggingface.co/datasets/analogy-evaluation/challenge-dataset)
+      
+      [Baseline code](https://github.com/yurinoviello/analogy-eval-baseline-INLG)
+      
+      **Organizers:** Bhavya (IBM), Yuri Noviello (Delft University of Technology)
   - id: alt-architectures
     title: "Alternative Architectures and Generative Paradigms for NLG"
     bodytext: |
@@ -35,12 +47,6 @@ tutorials:
       [Submission form (due 01.08)](https://openreview.net/group?id=aclweb.org/INLG/2026/Workshop/Industrial_NLP)
 
       **Organizers:** Yizhi Li (University of Manchester), Yi Zhou (Cardiff University), Jingcheng Niu (TU Darmstadt), Haau-sing Li (TU Darmstadt and Instituto de Telecomunicações), Joanne Boisson (Cardiff University), Yi Qi (University of Leeds)
-  - id: beyond-leaderboards
-    title: "Beyond Leaderboards: Evaluation Practices for Open-Ended and Perspectival NLG"
-    bodytext: |
-      We are pleased to congratulate the organizers of this selected workshop for INLG 2026.
-
-      **Organizers:** Christina Niklaus (University of St.Gallen), Thomas Huber (University of St.Gallen)
   - id: aiwolfdial2026
     title: "The 4th Workshop of AI Werewolf and Dialog System 2026 (AIWolfDial2026)"
     bodytext: |
@@ -51,3 +57,9 @@ tutorials:
       [Call for participation](https://aiwolfdial.github.io/aiwolf-nlp/en/menu/inlg_2026_en/paper_submission/)
 
       **Organizers:** Yoshinobu Kano (Shizuoka University, Japan), Claus Aranha (Tsukuba University, Japan), Takashi Otsuki (Yamagata University, Japan), Fujio Toriumi (The University of Tokyo, Japan), Hirotaka Osawa (Keio University, Japan), Daisuke Katagami (Tokyo Polytechnic University, Japan), Michimasa Inaba (The University of Electro-Communications, Japan), Kei Harada (The University of Electro-Communications, Japan), Takeshi Ito (The University of Electro-Communications, Japan)
+  - id: beyond-leaderboards
+    title: "Beyond Leaderboards: Evaluation Practices for Open-Ended and Perspectival NLG"
+    bodytext: |
+      We are pleased to congratulate the organizers of this selected workshop for INLG 2026.
+
+      **Organizers:** Christina Niklaus (University of St.Gallen), Thomas Huber (University of St.Gallen)
