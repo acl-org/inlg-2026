@@ -12,6 +12,8 @@ tutorials:
     bodytext: |
       We are pleased to congratulate the organizers of this selected workshop for INLG 2026.
 
+      Workshop Website: [https://aiwolfdial.github.io/aiwolf-nlp/en/page/inlg_2026/](https://aiwolfdial.github.io/aiwolf-nlp/en/page/inlg_2026/)
+
       **Organizers:** Yoshinobu Kano (Shizuoka University, Japan), Claus Aranha (Tsukuba University, Japan), Takashi Otsuki (Yamagata University, Japan), Fujio Toriumi (The University of Tokyo, Japan), Hirotaka Osawa (Keio University, Japan), Daisuke Katagami (Tokyo Polytechnic University, Japan), Michimasa Inaba (The University of Electro-Communications, Japan), Kei Harada (The University of Electro-Communications, Japan), Takeshi Ito (The University of Electro-Communications, Japan)
   - id: ynlg2026
     title: "YNLG 2026 - The 2nd Workshop for Young Researchers in Natural Language Generation"
@@ -20,7 +22,7 @@ tutorials:
 
       Workshop Website: [https://ynlg-workshop.github.io/](https://ynlg-workshop.github.io/)
 
-      **Organizers:** Nils Feldhus (TU Berlin, BIFOLD), Rudali Huidrom (Dublin City University, ADAPT), Kristyna Onderkova (Charles University), Adarsa Sivaprasad (University of Aberdeen), Patricia Schmidtova (Charles University)
+      **Organizers:** Nils Feldhus (University of Groningen), Rudali Huidrom (IIIT Delhi), Kristyna Onderkova (Charles University), Miriam Anschütz (Technical University of Munich), Barkavi Sundararajan (University of Aberdeen), Patricia Schmidtova (Charles University), Yongxin Zhou (Université Grenoble Alpes)
   - id: industrial-nlp
     title: "Workshop for Industrial NLP: NLP Research Towards Safety, Reliability, and Real-World Impact"
     bodytext: |
