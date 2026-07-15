@@ -2,31 +2,31 @@ tutorials:
   - id: alt-architectures
     title: "Alternative Architectures and Generative Paradigms for NLG"
     bodytext: |
-      We are pleased to congratulate the organizers of this selected workshop for INLG 2026.
+      This workshop creates a dedicated forum — the Alternative Architectures Project (AAP) — to expand and diversify core NLG architecture research. Our goal is to encourage the community to focus on non-traditional machine learning structures that learn, process, and generate language differently.
 
-      Workshop Website: [https://aap-inlg.github.io](https://aap-inlg.github.io/)
+      [Workshop Website](https://aap-inlg.github.io/)
+      [Call for papers](https://aap-inlg.github.io/cfp/)
+      [Submission Form (due 09.08)](https://openreview.net/group?id=aclweb.org/INLG/2026/Workshop/AAP)
 
       **Organizers:** Ruurd Kuiper (UMC Utrecht), Robert Bagheri (Utrecht University)
-  - id: aiwolfdial2026
-    title: "The 4th Workshop of AI Werewolf and Dialog System 2026 (AIWolfDial2026)"
-    bodytext: |
-      We are pleased to congratulate the organizers of this selected workshop for INLG 2026.
-
-      Workshop Website: [https://aiwolfdial.github.io/aiwolf-nlp/en/page/inlg_2026/](https://aiwolfdial.github.io/aiwolf-nlp/en/page/inlg_2026/)
-
-      **Organizers:** Yoshinobu Kano (Shizuoka University, Japan), Claus Aranha (Tsukuba University, Japan), Takashi Otsuki (Yamagata University, Japan), Fujio Toriumi (The University of Tokyo, Japan), Hirotaka Osawa (Keio University, Japan), Daisuke Katagami (Tokyo Polytechnic University, Japan), Michimasa Inaba (The University of Electro-Communications, Japan), Kei Harada (The University of Electro-Communications, Japan), Takeshi Ito (The University of Electro-Communications, Japan)
   - id: ynlg2026
     title: "YNLG 2026 - The 2nd Workshop for Young Researchers in Natural Language Generation"
     bodytext: |
-      We are pleased to congratulate the organizers of this selected workshop for INLG 2026.
+      YNLG aims to foster a welcoming community of early-career researchers in NLG by providing a platform for PhD students and Master's students to present work-in-progress research, receive feedback from senior researchers and peers, and engage in discussions about current trends and future directions in Natural Language Generation.
 
-      Workshop Website: [https://ynlg-workshop.github.io/](https://ynlg-workshop.github.io/)
+      [Workshop Website](https://ynlg-workshop.github.io/)
+      [Call for papers](https://ynlg-workshop.github.io/#cfp)
+      [Submission Form (due 10.08)](https://openreview.net/group?id=aclweb.org/INLG/2026/Workshop/YNLG)
 
       **Organizers:** Nils Feldhus (University of Groningen), Rudali Huidrom (IIIT Delhi), Kristyna Onderkova (Charles University), Miriam Anschütz (Technical University of Munich), Barkavi Sundararajan (University of Aberdeen), Patricia Schmidtova (Charles University), Yongxin Zhou (Université Grenoble Alpes)
   - id: industrial-nlp
     title: "Workshop for Industrial NLP: NLP Research Towards Safety, Reliability, and Real-World Impact"
     bodytext: |
-      We are pleased to congratulate the organizers of this selected workshop for INLG 2026.
+      A half-day workshop at INLG 2026 dedicated to natural language generation (NLG) and large language model (LLM) research shaped by real deployment settings.
+
+      [Workshop Website](https://industrialnlp.github.io/)
+      [Call for papers](https://industrialnlp.github.io/cfp)
+      [Submission Form (due 01.08)](https://openreview.net/group?id=aclweb.org/INLG/2026/Workshop/Industrial_NLP)
 
       **Organizers:** Yizhi Li (University of Manchester), Yi Zhou (Cardiff University), Jingcheng Niu (TU Darmstadt), Haau-sing Li (TU Darmstadt and Instituto de Telecomunicações), Joanne Boisson (Cardiff University), Yi Qi (University of Leeds)
   - id: beyond-leaderboards
@@ -35,3 +35,11 @@ tutorials:
       We are pleased to congratulate the organizers of this selected workshop for INLG 2026.
 
       **Organizers:** Christina Niklaus (University of St.Gallen), Thomas Huber (University of St.Gallen)
+  - id: aiwolfdial2026
+    title: "The 4th Workshop of AI Werewolf and Dialog System 2026 (AIWolfDial2026)"
+    bodytext: |
+      We are pleased to congratulate the organizers of this selected workshop for INLG 2026.
+
+      [Workshop Website](https://aiwolfdial.github.io/aiwolf-nlp/en/page/inlg_2026/)
+
+      **Organizers:** Yoshinobu Kano (Shizuoka University, Japan), Claus Aranha (Tsukuba University, Japan), Takashi Otsuki (Yamagata University, Japan), Fujio Toriumi (The University of Tokyo, Japan), Hirotaka Osawa (Keio University, Japan), Daisuke Katagami (Tokyo Polytechnic University, Japan), Michimasa Inaba (The University of Electro-Communications, Japan), Kei Harada (The University of Electro-Communications, Japan), Takeshi Ito (The University of Electro-Communications, Japan)
