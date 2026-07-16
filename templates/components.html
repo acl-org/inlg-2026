@@ -252,7 +252,7 @@ sessiongroup
                 {% endif %}
             </div>
             {% if "bodytext" in call %}
-            <div id="collapse-{{call.id}}" class="collapse mt-3 call-collapsed"
+            <div id="collapse-{{call.id}}" class="collapse mt-3 call-collapsed show"
                 aria-labelledby="heading-{{loop.index}}" data-parent="#accordionExample">
                 <div class="card-body markdown">
                     {{ call.bodytext | markdown }}
