@@ -4,6 +4,8 @@ INLG 2026 will take place at the [Spoorwegmuseum (The Railway Museum)](https://w
 
 The museum is housed in the historic Maliebaan railway station and a modern exhibition hall in central Utrecht. Its collection of full-sized historic trains gives the venue a distinctive atmosphere, well suited to both conference presentations and informal conversations among participants. The venue offers several conference spaces, including former waiting rooms, exhibition areas, and rooms equipped with audiovisual facilities.
 
+<img src="static/images/swmuseum.jpg" width="65%" style="margin: auto; display: block;">
+
 #### Address
 
 Spoorwegmuseum
