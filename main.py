@@ -112,12 +112,12 @@ def banquet():
 def local_info():
     data = _data()
     data["mdcontent"] = open("sitedata/local_info.md").read()
-    data["section_title"] = "Local Information"
+    data["section_title"] = "Travel Information"
     return render_template("single_md.html", **data)
 
 
 @app.route("/utrecht.html")
-def local_info():
+def utrecht():
     data = _data()
     data["mdcontent"] = open("sitedata/utrecht.md").read()
     data["section_title"] = "Utrecht"
