@@ -5,9 +5,6 @@ calls:
   - id: "cfp-tutorials"
     title: INLG 2026 Call for Papers (Workshops & Tutorials)
     body: sitedata/cfp_tutorials.md
-  - id: "workshops-tutorials"
-    title: INLG 2026 Call for Workshop & Tutorial Proposals
-    body: sitedata/call_for_workshop.md
   - id: "sponsors"
     title: INLG 2026 Call for Sponsors
     body: sitedata/sponsor.md
