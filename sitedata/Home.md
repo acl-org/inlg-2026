@@ -53,12 +53,12 @@ The **19th International Conference on Natural Language Generation** will be in 
 #### News
 
 <div class="news-card">
+
 <div class="news-item">
 <div class="news-date">Jul 17</div>
 <div class="news-copy"><span class="news-label">NEW!</span> Call for Shared Task proposals in NLG is <a href="calls.html#collapse-genchal">out</a>.</div>
 </div>
 
-<div class="news-card">
 <div class="news-item">
 <div class="news-date">Jul 14</div>
 <div class="news-copy"><span class="news-label">NEW!</span> <strong>Deadline extension</strong>. The direct submission deadline is extended to July 18, 2026 (AoE).</div>
@@ -78,6 +78,7 @@ The **19th International Conference on Natural Language Generation** will be in 
 <div class="news-date">Jun 21</div>
 <div class="news-copy"> <strong>Submission venues</strong>. We now have two submission venues: <a href="https://openreview.net/group?id=aclweb.org/INLG/2026/Conference_Direct_Submissions#tab-recent-activity">Direct submissions</a> and <a href="https://openreview.net/group?id=aclweb.org/INLG/2026/Conference_ARR_Commitment#tab-recent-activity">ARR commitments</a>.</div>
 </div>
+
 </div>
 
 #### Important Dates
@@ -93,14 +94,11 @@ All deadlines are **Anywhere on Earth (UTC-12)**.
 - Camera ready: **September 7, 2026**
 - Conference: **October 17 - October 21, 2026**
 
-##### Call for Workshop & Tutorial Proposals
-
-- Deadline for receipt of workshop proposals: **May 25, 2026**
-- Notification of acceptance: **June 1, 2026**
-- Call for workshop papers or abstracts: Immediately after acceptance notification
-- Submissions due: **August 1, 2026**
-- Notification of acceptance: **September 1, 2026**
-- Camera-ready papers due: **September 16, 2026**
-
 For more details, check out the [Calls page](/calls.html).
+
+##### Call for Workshop Papers
+
+See the [workshop page](/workshops-tutorials.html).
+
+
 
