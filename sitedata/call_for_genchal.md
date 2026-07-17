@@ -15,7 +15,7 @@ Submissions should describe possible future tasks in detail, including:
 * possible need for ethical approval (e.g. for the human evaluation);
 * general timeline.
 
-Accepted shared tasks will be offered a slot to present (i) the task at INLG 2026, and (ii) the results in the 2027 or 2028 edition of INLG, during the Generation Challenges (GenChal) special session of the main conference. The GenChal session traditionally comprises overviews of task results by the organisers of currently running shared tasks, a poster session for task participants to present their submissions, as well as presentations of proposals for new shared tasks. You can see some of the previous tasks in the past GenChal proceedings on the ACL Anthology (see e.g. 2022, 2023, 2024, or 2025).
+Accepted shared tasks will be offered a slot to present (i) the task at INLG 2026, and (ii) the results in the 2027 or 2028 edition of INLG, during the Generation Challenges (GenChal) special session of the main conference. The GenChal session traditionally comprises overviews of task results by the organisers of currently running shared tasks, a poster session for task participants to present their submissions, as well as presentations of proposals for new shared tasks. You can see some of the previous tasks in the past GenChal proceedings on the ACL Anthology (see e.g. [2022](https://aclanthology.org/volumes/2022.inlg-genchal/), [2023](https://aclanthology.org/volumes/2023.inlg-genchal/), [2024](https://aclanthology.org/volumes/2024.inlg-genchal/), or [2025](https://aclanthology.org/volumes/2025.inlg-genchal/)).
 
 #### Important dates
 * Submission deadline: August 22nd 2026 (AoE).
@@ -24,9 +24,9 @@ Accepted shared tasks will be offered a slot to present (i) the task at INLG 202
 * INLG: October 17 - October 21, 2026.
 
 #### Submissions and format
-Submissions in the Shared Task Proposals track should be no more than 4 (four) pages long excluding citations, and should follow the ACL Author Guidelines, and use LaTeX style files and Microsoft Word templates found under this link.
+Submissions in the Shared Task Proposals track should be no more than 4 (four) pages long excluding citations, and should follow the [ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines), and use LaTeX style files and Microsoft Word templates found under this [link](https://acl-org.github.io/ACLPUB/formatting.html).
 
-Proposals should be uploaded on OpenReview, using the Submission type New shared task proposal: INLG 2026 GenChal Submission 
+Proposals should be uploaded on OpenReview, using the Submission type New shared task proposal: [INLG 2026 GenChal Submission](https://openreview.net/group?id=aclweb.org/INLG/2026/GenChal#tab-recent-activity)
 
 Submissions will be peer-reviewed by the program committee. As reviewing will not be blind, there is no need to anonymise papers.
-This is not intended to be a selective process, since the aim is to discuss new potential shared tasks with INLG delegates. However, the organisers reserve the right to reject proposals which do not fall within the scope of the GenChal initiative, or which do not follow the guidelines. Accepted submissions will be published in separate GenChal 2026 proceedings  on the ACL Anthology, as was done in 2022, 2023, 2024, and 2025.
+This is not intended to be a selective process, since the aim is to discuss new potential shared tasks with INLG delegates. However, the organisers reserve the right to reject proposals which do not fall within the scope of the GenChal initiative, or which do not follow the guidelines. Accepted submissions will be published in separate GenChal 2026 proceedings  on the ACL Anthology, as was done in [2022](https://aclanthology.org/volumes/2022.inlg-genchal/), [2023](https://aclanthology.org/volumes/2023.inlg-genchal/), [2024](https://aclanthology.org/volumes/2024.inlg-genchal/), and [2025](https://aclanthology.org/volumes/2025.inlg-genchal/).
