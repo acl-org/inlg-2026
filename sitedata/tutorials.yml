@@ -60,6 +60,6 @@ tutorials:
   - id: beyond-leaderboards
     title: "Beyond Leaderboards: Evaluation Practices for Open-Ended and Perspectival NLG"
     bodytext: |
-      We are pleased to congratulate the organizers of this selected workshop for INLG 2026.
+      This tutorial provides a practical, hands-on guide to evaluating open-ended NLG by introducing a five-layer design stack that helps researchers move beyond simple leaderboards to responsibly handle subjectivity and annotator disagreement.
 
       **Organizers:** Christina Niklaus (University of St.Gallen), Thomas Huber (University of St.Gallen)
