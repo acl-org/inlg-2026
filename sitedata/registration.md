@@ -16,7 +16,7 @@ Each main conference paper should have **at least one registered presenter**, in
 
 #### Student Discounts:
 
-Reduced registration fees are available for students. You will be asked for a **copy of your student ID** after filling out the registration form.
+Reduced registration fees are available for students. You will be asked to provide **evidence of student status** after registration.
 
 #### Early registration rates – Until 1 September 2026
 
