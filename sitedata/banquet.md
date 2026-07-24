@@ -1,6 +1,6 @@
 ## INLG 2026 Social Program
 
-We have put together an exciting social program in our city during INLG 2026.
+We have put together an exciting social program in our city during INLG 2026. Please book your place at each of these events when you register, via our <a href="/registration.html">registration form</a>!
 
 ### Welcome reception
 
