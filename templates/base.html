@@ -256,7 +256,17 @@
             setInterval(update_banner,5000);
         });
     </script>
-    {% endblock %}
+   
+    <!-- For external URLS -->
+    <script type="text/javascript">
+        document.querySelectorAll('a').forEach(function(link) {
+            if (link.hostname !== window.location.hostname) {
+                link.setAttribute('target', '_blank');
+                link.setAttribute('rel', 'noopener noreferrer');
+            }
+        });
+    </script>
+     {% endblock %}
 </body>
 
 <style>

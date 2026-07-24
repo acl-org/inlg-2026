@@ -4,7 +4,7 @@
 
 We invite the submission of long and short papers, as well as system demonstrations, related to all aspects of Natural Language Generation (NLG), including data-to-text, concept-to-text, text-to-text and vision-to-text approaches. Accepted papers will be presented as oral talks or posters.
 
-The event is organized under the auspices of the Special Interest Group on Natural Language Generation ([SIGGEN](https://www.aclweb.org/aclwiki/SIGGEN)) of the Association for Computational Linguistics ([ACL](https://www.aclweb.org/portal/)). The event will be held from October 17 to October 21, 2026. INLG 2026 will be hosted by Utrecht University in Utrecht, the Netherlands. The conference will be taking place before EMNLP (in Budapest, Hungary, from October 24th to October 29th, 2026).
+The event is organized under the auspices of the Special Interest Group on Natural Language Generation ([SIGGEN](https://www.aclweb.org/aclwiki/SIGGEN)) of the Association for Computational Linguistics ([ACL](https://www.aclweb.org/portal/)). The event will be held from October 17 to October 21, 2026 in Utrecht, the Netherlands. INLG 2026 will be hosted by the [NLP Group](https://uu-nlp.github.io/) in the [Department of Information and Computing Sciences](https://ics.uu.nl/), Utrecht University. The conference will be taking place before EMNLP (in Budapest, Hungary, from October 24th to October 29th, 2026).
 
 ### Important dates
 
