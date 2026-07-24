@@ -1,6 +1,6 @@
 ## INLG 2026 Social Program
 
-We are putting together an exciting social program in our city during INLG 2026.
+We have put together an exciting social program in our city during INLG 2026.
 
 ### Welcome reception
 
@@ -18,4 +18,3 @@ INLG attendees are invited to a conference dinner. The dinner is at an extra cos
 - **Time:** TBD
 - **Location:** TBD
 - **Price:** TBD
-

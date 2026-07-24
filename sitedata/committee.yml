@@ -42,7 +42,7 @@ groups:
 
   - title: Local Organization Committee
     members: 
-      - role: Local Organizer
+      - role: General Chair
         name: Albert Gatt
         aff: Utrecht University
         im: static/images/organizers/albert_gatt.jpeg
