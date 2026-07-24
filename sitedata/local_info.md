@@ -16,9 +16,10 @@ Maliebaanstation 16
 
 The Netherlands
 
-### Excursion
 
-The excursion date is to be announced.
+### Hotels and lodging
+
+INLG 2026 does not have an official hotel. However, you can use this search facility to find and book a hotel for your stay. This is a service provided by [Hotel Service Utrecht](https://www.hotelserviceutrecht.com/).
 
 ### Travel Information
 
