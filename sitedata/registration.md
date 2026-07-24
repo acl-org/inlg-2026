@@ -1,6 +1,6 @@
 ### Registration 
 
-Registration proceeds through [an external registration form managed by Utrecht University](https://forms.uu.nl/universiteitutrecht-beta/INLG_2026). 
+Registration proceeds through [an external registration form managed by Utrecht University](https://forms.uu.nl/universiteitutrecht-beta/INLG_2026){:target="_blank"}. 
 
 Note that the form includes a questionnaire for participants. If you are registering as a presenter of an accepted paper, please do not forget to **fill in the ID of the paper you are presenting**.
 
