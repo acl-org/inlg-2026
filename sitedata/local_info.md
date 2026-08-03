@@ -19,7 +19,7 @@ The Netherlands
 
 ### Hotels and lodging
 
-For hotel and lodging information, please refer to the [Accomodations](https://inlg2026.github.io/accomodations.html) page.
+For hotel and lodging information, please refer to the [Accomodations](https://2026.inlgmeeting.org/accomodations.html) page.
 
 ### Travel Information
 
