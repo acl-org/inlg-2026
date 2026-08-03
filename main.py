@@ -116,6 +116,14 @@ def local_info():
     return render_template("single_md.html", **data)
 
 
+@app.route("/accomodations.html")
+def accomodations():
+    data = _data()
+    data["mdcontent"] = open("sitedata/accomodations.md").read()
+    data["section_title"] = "Accomodations"
+    return render_template("single_md.html", **data)
+
+
 @app.route("/utrecht.html")
 def utrecht():
     data = _data()
