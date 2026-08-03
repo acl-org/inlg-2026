@@ -1,0 +1,20 @@
+speakers:
+  - name: Ehud Reiter
+    aff: University of Aberdeen
+    url: https://ehudreiter.com/
+    im: static/images/speakers/ehud_reiter.jpg
+
+  - name: Malvina Nissim
+    aff: University of Groningen
+    url: https://malvinanissim.github.io/
+    im: static/images/speakers/malvina_nissim.jpeg
+
+  - name: Marie-Catherine de Marneffe
+    aff: FNRS - UCLouvain
+    url: https://cental.uclouvain.be/team/mcdm/index.html
+    im: static/images/organizers/placeholder_silhouette.svg
+
+  - name: Seraphina Goldfarb-Tarrant
+    aff: Cohere
+    url: https://seraphinatarrant.github.io/
+    im: static/images/speakers/seraphina_goldfarb.jpeg

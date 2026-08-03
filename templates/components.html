@@ -181,7 +181,9 @@ sessiongroup
         {% else %}
         <div style="font-weight: 600;">{{person.name}}</div>
         {% endif %}
+        {% if person.role %}
         <div style="font-size: small; font-style: italic; margin-top: 0.4rem; text-align: center;">{{person.role}}</div>
+        {% endif %}
         <div style="font-size: small; text-align: center;">{{person.aff}}</div>
         {% if person.im %}
         <div style="margin-top: 0.8rem;"></div>

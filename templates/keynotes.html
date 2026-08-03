@@ -1,0 +1,22 @@
+{% set active_page = "Keynotes" %}
+{% extends "base.html" %}
+
+{% block content %}
+
+{{ components.section(section_title) }}
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="markdown col-sm border p-4">
+      {{ mdcontent | markdown }}
+    </div>
+  </div>
+
+  <div class="row" style="margin-top: 1rem;">
+    {% for speaker in speakers %}
+    {{ components.display_person(speaker) }}
+    {% endfor %}
+  </div>
+</div>
+
+{% endblock %}

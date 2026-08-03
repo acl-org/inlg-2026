@@ -217,7 +217,8 @@ def keynotes():
     data = _data()
     data["mdcontent"] = open("sitedata/keynotes.md").read()
     data["section_title"] = "Keynotes"
-    return render_template("single_md.html", **data)
+    data["speakers"] = site_data["keynotes"]["speakers"]
+    return render_template("keynotes.html", **data)
 
 
 # ITEM PAGES
