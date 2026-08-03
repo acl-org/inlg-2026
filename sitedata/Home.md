@@ -55,6 +55,11 @@ The **19th International Conference on Natural Language Generation** will be in 
 <div class="news-card">
 
 <div class="news-item">
+<div class="news-date">Aug 03</div>
+<div class="news-copy"><span class="news-label">NEW!</span> Our list of speakers has been announced on the <a href="https://2026.inlgmeeting.org/keynotes.html">Keynotes page</a>.</div>
+</div>
+
+<div class="news-item">
 <div class="news-date">Jul 17</div>
 <div class="news-copy"><span class="news-label">NEW!</span> Call for Shared Task proposals in NLG is <a href="calls.html#collapse-genchal">out</a>.</div>
 </div>
