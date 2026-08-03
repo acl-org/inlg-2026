@@ -14,12 +14,13 @@ If you need a visa to travel to the Netherlands, and need to supply proof of you
 The registration fees cover:
 
 * Attendance to the conference program
-* Coffee/snacks and lunch during the main conference
+* Coffee/snacks during the main conference and workshops
+* Lunch during the main conference days
 * The two social events: the welcome reception and the outing
 
 **Note**: during the workshops, attendees are expected to plan for lunch independently.
 
-The conference banquet is at an extra charge (to be announced before 01.08.2026). Please indicate on the registration form whether you also plan to attend the dinner, and the cost will be added to the payment automically.
+The conference banquet is at an extra charge (to be announced this week). Please indicate on the registration form whether you also plan to attend the dinner, and the cost will be added to the payment automically.
 
 Each main conference paper should have **at least one registered presenter**, in order to be included in the program. The registration costs for paper presenters are the same, regardless of whether you are attending in person or not.
 
