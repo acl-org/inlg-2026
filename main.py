@@ -116,6 +116,14 @@ def local_info():
     return render_template("single_md.html", **data)
 
 
+@app.route("/contact.html")
+def contact():
+    data = _data()
+    data["mdcontent"] = open("sitedata/contact.md").read()
+    data["section_title"] = "Contact"
+    return render_template("single_md.html", **data)
+
+
 @app.route("/accomodations.html")
 def accomodations():
     data = _data()
