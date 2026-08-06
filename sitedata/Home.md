@@ -1,6 +1,6 @@
 ### Welcome to INLG 2026!
 
-The **19th International Conference on Natural Language Generation** will be in Utrecht, the Netherlands, October 17-21, 2026, just before EMNLP 2026 in Hungary.
+The **19th International Conference on Natural Language Generation** will be in Utrecht, the Netherlands, October 17-21, 2026, just before EMNLP 2026 in Hungary. Workshops will take place on October 17 and 18, 2026, and the main conference will run from October 19-21, 2026.
 
 <style>
 	.news-card {

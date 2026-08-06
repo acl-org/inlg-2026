@@ -3,6 +3,6 @@
 # Program
 
 
-Workshops will take place on October 17 and 18, 2026, and the main conference will run from October 19 to 21, 2026.
+Workshops will take place on October 17 and 18, 2026, and the main conference will run from October 19-21, 2026.
 
-**Stay tuned for updates!**
+**Stay tuned for more updates!**
