@@ -55,6 +55,11 @@ The **19th International Conference on Natural Language Generation** will be in 
 <div class="news-card">
 
 <div class="news-item">
+<div class="news-date">Aug 06</div>
+<div class="news-copy"><span class="news-label">NEW!</span> Registration is now open. Please visit the <a href="https://2026.inlgmeeting.org/registration.html">registration section</a> for more information.</div>
+</div>
+
+<div class="news-item">
 <div class="news-date">Aug 03</div>
 <div class="news-copy"><span class="news-label">NEW!</span> Our list of speakers has been announced on the <a href="https://2026.inlgmeeting.org/keynotes.html">Keynotes page</a>.</div>
 </div>
@@ -66,7 +71,7 @@ The **19th International Conference on Natural Language Generation** will be in 
 
 <div class="news-item">
 <div class="news-date">Jul 14</div>
-<div class="news-copy"><span class="news-label">NEW!</span> <strong>Deadline extension</strong>. The direct submission deadline is extended to July 18, 2026 (AoE).</div>
+<div class="news-copy"><strong>Deadline extension</strong>. The direct submission deadline is extended to July 18, 2026 (AoE).</div>
 </div>
 
 <div class="news-item">
