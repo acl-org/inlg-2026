@@ -12,9 +12,9 @@ The welcome reception, sponsored by the [City of Utrecht](https://www.utrecht.nl
 
 ### Conference dinner
 
-INLG attendees are invited to a conference dinner. The dinner is at an extra cost. Pre-booking is essential, and needs to be done via the registration form.
+INLG attendees are invited to a conference dinner at Humphrey's Utrecht. The dinner is at an extra cost of €50, which includes a three-course meal and drinks. Pre-booking is essential, and needs to be done via the registration form.
 
 - **Date:** TBD
 - **Time:** TBD
-- **Location:** TBD
-- **Price:** TBD
+- **Location:** [Humphrey's Utrecht](www.humphreys.nl/restaurants/humphreys-utrecht/)
+- **Price:** €50
