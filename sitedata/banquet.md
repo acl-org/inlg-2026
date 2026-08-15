@@ -10,6 +10,10 @@ The welcome reception, sponsored by the [City of Utrecht](https://www.utrecht.nl
 - **Time:** TBD
 - **Location:** [Academiegebouw](https://maps.app.goo.gl/PyLqc4gwc4zvThu98), Domplein 29, 3512 JE Utrecht 
 
+### Social outing
+
+We are planning an outing in the city of Utrecht, free of charge. More information to follow.
+
 ### Conference dinner
 
 INLG attendees are invited to a conference dinner at Humphrey's Utrecht. The dinner is at an extra cost of €50, which includes a three-course meal and drinks. Pre-booking is essential, and needs to be done via the registration form.
