@@ -16,5 +16,5 @@ INLG attendees are invited to a conference dinner at Humphrey's Utrecht. The din
 
 - **Date:** TBD
 - **Time:** TBD
-- **Location:** [Humphrey's Utrecht](www.humphreys.nl/restaurants/humphreys-utrecht/)
+- **Location:** [Humphrey's Utrecht](https://www.humphreys.nl/restaurants/humphreys-utrecht/)
 - **Price:** €50
