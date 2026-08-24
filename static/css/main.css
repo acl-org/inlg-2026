@@ -186,6 +186,60 @@ div.anchor {
   border-radius: 0.8rem;
 }
 
+.keynote-card {
+  display: flex;
+  gap: 1.25rem;
+  align-items: stretch;
+  padding: 1rem;
+}
+
+.keynote-card-image {
+  width: 12rem;
+  min-width: 12rem;
+  height: 14rem;
+  border-radius: 0.6rem;
+  object-fit: cover;
+  align-self: center;
+}
+
+.keynote-card-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.keynote-card-name {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.keynote-card-aff {
+  color: #4b5563;
+  margin-top: 0.2rem;
+}
+
+.keynote-card-title {
+  margin-top: 0.9rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.keynote-card-description {
+  margin-top: 0.6rem;
+}
+
+@media (max-width: 767.98px) {
+  .keynote-card {
+    flex-direction: column;
+  }
+
+  .keynote-card-image {
+    width: 100%;
+    min-width: 0;
+    height: 15rem;
+  }
+}
+
 tr.fc-list-item {
   cursor: pointer;
 }

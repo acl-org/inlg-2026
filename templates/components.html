@@ -193,6 +193,32 @@ sessiongroup
 </div>
 {%- endmacro %}
 
+{% macro display_keynote(person) %}
+<div class="col-12 p-2">
+    <div class="border keynote-card h-100 w-100">
+        {% if person.im %}
+        <img src="{{person.im}}" class="keynote-card-image" alt="{{person.name}}" />
+        {% endif %}
+        <div class="keynote-card-content">
+            {% if person.url %}
+            <div class="keynote-card-name"><a href="{{person.url}}" target="_blank" rel="noopener noreferrer">{{person.name}}</a></div>
+            {% else %}
+            <div class="keynote-card-name">{{person.name}}</div>
+            {% endif %}
+            {% if person.aff %}
+            <div class="keynote-card-aff">{{person.aff}}</div>
+            {% endif %}
+            {% if person.keynote_title %}
+            <div class="keynote-card-title">{{person.keynote_title}}</div>
+            {% endif %}
+            {% if person.keynote_description %}
+            <div class="keynote-card-description">{{person.keynote_description | markdown}}</div>
+            {% endif %}
+        </div>
+    </div>
+</div>
+{%- endmacro %}
+
 {% macro papergroup(private, papers) -%}
 <div class="row">
     {% for paper in papers %}
