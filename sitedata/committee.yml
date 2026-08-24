@@ -10,7 +10,7 @@ groups:
       - role: Program Chair
         name: Guanyi Chen
         aff: Central China Normal University
-        im: static/images/organizers/placeholder_silhouette.svg
+        im: static/images/organizers/guanyi_chen.jpeg
         url: https://a-quei.github.io/
 
       - role: Program Chair
@@ -22,7 +22,7 @@ groups:
       - role: Workshop Chair
         name: Jian Yang
         aff: Beihang University
-        im: static/images/organizers/placeholder_silhouette.svg
+        im: static/images/organizers/jian_yang.jpg
         url: https://research.buaa.edu.cn/en/persons/jian-yang-2/
 
       - role: Publication Chair
