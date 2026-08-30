@@ -1,6 +1,4 @@
-## Accepted Papers
-
-### Long papers
+## Long papers
 
 - **A Constraint-Based Formalism for Controlled Text Generation** — Lionel Clément
 - **Can we use LLMs to generate data-driven patient narratives? A multi-method exploration in the oncology domain** — Nele Albers, Linwei He, Anouk Teunissen, Kelly M. de Ligt, Nadine Bol, Emiel Krahmer
@@ -85,7 +83,7 @@
 - **Can LLM Coding Agents Reason About Time Series?** — Filip Rechtorík, Ondrej Dusek, Zdeněk Kasner
 - **Strategies for Span Labeling with Large Language Models** — Danil Semin, Ondrej Dusek, Zdeněk Kasner
 
-### Short papers
+## Short papers
 
 - **You Can't Prefer Emotions You Don't Sample: Intensity Undershoot in DPO-Tuned LLMs** — Hyunwoo Kim, Usama Khalid
 - **Example-Guided Prompting for Document-Level Text Simplification** — Marina Litvak, Ariel Perstin, Ilan Shtilman, Michael Färber
@@ -101,7 +99,7 @@
 - **When Diverse Paraphrases Do Not Help: LLM Data Augmentation for Portuguese Aspect-Based Sentiment Analysis** — Andrew Borges de Campos, Gabriel A. Gomes, Larissa Astrogildo de freitas, Ulisses Brisolara Corrêa
 - **Evaluating Rationale-Grounded Responses for Meme Images via Self-Scoring-Based Selection** — Ryotaro Kanae, Yusuke Sakai, Hidetaka Kamigaito, Taro Watanabe
 
-### Demo papers
+## Demo papers
 
 - **CAP: Contrastive Activation Patching for Locating, Comparing, and Steering Neurons in Multilingual LLMs** — Aleksandr Semenikhin
 - **PLeW-NLG: Interactive Exploration of Human Evaluation Data across NLG Tasks** — Fahime Same, Leonard W Sprague Jr, Francesco Cangemi
