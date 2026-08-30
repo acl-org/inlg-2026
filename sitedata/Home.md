@@ -55,6 +55,11 @@ The **19th International Conference on Natural Language Generation** will be in 
 <div class="news-card">
 
 <div class="news-item">
+<div class="news-date">Aug 30</div>
+<div class="news-copy"><span class="news-label">NEW!</span> The list of accepted papers is now online! Please visit <a href="https://2026.inlgmeeting.org/accepted-papers.html">the accepted papers section</a> for more information.</div>
+</div>
+
+<div class="news-item">
 <div class="news-date">Aug 06</div>
 <div class="news-copy"><span class="news-label">NEW!</span> Registration is now open. Please visit the <a href="https://2026.inlgmeeting.org/registration.html">registration section</a> for more information.</div>
 </div>

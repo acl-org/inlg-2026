@@ -3,6 +3,6 @@
 # Program
 
 
-Workshops will take place on October 17 and 18, 2026, and the main conference will run from October 19-21, 2026.
+Workshops will take place on October 17 and 18, 2026, and the main conference will run from October 19-21, 2026. The full program will be announced soon. The list of accepted papers to the main conference is available at  <a href="https://2026.inlgmeeting.org/accepted-papers.html">the accepted papers section</a>.
 
 **Stay tuned for more updates!**
