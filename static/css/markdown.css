@@ -28,6 +28,11 @@
   margin-bottom: 0.8rem;
 }
 
+.markdown .note {
+  color: #c62828;
+  font-style: italic;
+}
+
 .markdown table {
   width: 100%;
   overflow: hidden;
