@@ -4,7 +4,7 @@ Registration proceeds through [an external registration form managed by Utrecht 
 
 Note that the form includes a questionnaire for participants. If you are registering as a presenter of an accepted paper, please do not forget to **fill in the ID of the paper you are presenting**.
 
-No payment is requested via this form. After you complete the registration form, you will receive a **separate payment link** by email. Once payment is done, you will receive an invoice and a confirmation letter. This confirmation letter can also be used a proof of attendance for visa applications.
+No payment is requested via this form. After you complete the registration form, you will receive a **separate payment link** by email. Once payment is done, you will receive an invoice and a confirmation letter. This confirmation letter can also be used a proof of attendance for visa applications. **Please be aware that it might take 2-3 days for the payment link to be sent. If you register via the form within the early registration deadline, you will still be charged the early registration fees, even if the payment link reaches you after the deadline.**
 
 ### Visa requirements
 If you need a visa to travel to the Netherlands, and need to supply proof of your attendance to INLG, you can use the confirmation letter that we send you upon receipt of your registration fee.
