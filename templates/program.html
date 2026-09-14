@@ -6,12 +6,12 @@
 
   <div class="program-day-tabs" role="tablist" aria-label="Program days">
     {% for day in program.days %}
-    <a class="program-day-tab nav-link{% if loop.first %} active{% endif %}"
-      id="program-tab-{{ day.date }}" data-toggle="tab" href="#program-pane-{{ day.date }}" role="tab"
+    <button class="program-day-tab{% if loop.first %} active{% endif %}" type="button"
+      id="program-tab-{{ day.date }}" data-program-target="program-pane-{{ day.date }}" role="tab"
       aria-controls="program-pane-{{ day.date }}" aria-selected="{{ 'true' if loop.first else 'false' }}">
       <span>{{ day.label.split(' ')[0] }}</span>
       <strong>{{ day.label.split(' ')[1] }} {{ day.label.split(' ')[2] }}</strong>
-    </a>
+    </button>
     {% endfor %}
   </div>
 
@@ -61,7 +61,7 @@
 <style>
   .program-intro { color: #5c6570; margin: 0 0 2rem; }
   .program-day-tabs { border-bottom: 2px solid #dce3e5; display: flex; gap: 0.35rem; margin-bottom: 2rem; overflow-x: auto; }
-  .program-day-tab { border-bottom: 3px solid transparent; color: #707983; flex: 1 0 9rem; padding: 0.7rem 0.8rem 0.8rem; text-align: center; white-space: nowrap; }
+  .program-day-tab { background: transparent; border: 0; border-bottom: 3px solid transparent; color: #707983; cursor: pointer; flex: 1 0 9rem; font: inherit; padding: 0.7rem 0.8rem 0.8rem; text-align: center; white-space: nowrap; }
   .program-day-tab:hover { color: #1d5d63; }
   .program-day-tab.active { background: transparent; border-bottom-color: #1d5d63; color: #1d5d63; }
   .program-day-tab span, .program-day-tab strong { display: block; }
@@ -89,5 +89,23 @@
     .program-session { gap: 0.5rem; grid-template-columns: 1fr; }
   }
 </style>
+
+<script>
+  document.querySelectorAll(".program-day-tab").forEach(function (tab) {
+    tab.addEventListener("click", function () {
+      document.querySelectorAll(".program-day-tab").forEach(function (otherTab) {
+        otherTab.classList.remove("active");
+        otherTab.setAttribute("aria-selected", "false");
+      });
+      document.querySelectorAll(".program-day").forEach(function (day) {
+        day.classList.remove("show", "active");
+      });
+
+      tab.classList.add("active");
+      tab.setAttribute("aria-selected", "true");
+      document.getElementById(tab.dataset.programTarget).classList.add("show", "active");
+    });
+  });
+</script>
 
 {% endblock %}
