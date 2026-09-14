@@ -1,0 +1,125 @@
+days:
+  - date: 2026-10-17
+    label: Saturday 17 October
+    subtitle: Workshops
+    sessions:
+      - time: 08:00-09:00
+        title: Registration and walk-in
+        location: Strikkerhuis
+      - time: 09:00-17:00
+        title: "YNLG: talks and discussion"
+        note: All day
+        location: Restauratiezaal
+      - time: 09:00-12:30
+        title: Wolfdial
+        location: Wachtkammer 3e Klasse
+      - time: 13:30-17:00
+        title: Industrial NLP
+        location: Wachtkammer 3e Klasse
+
+  - date: 2026-10-18
+    label: Sunday 18 October
+    subtitle: Workshops
+    sessions:
+      - time: 08:00-09:00
+        title: Registration and walk-in
+        location: Strikkerhuis
+      - time: 09:00-17:00
+        title: "YNLG: Hackathon"
+        note: All day
+        location: Restauratiezaal
+      - time: 09:00-12:30
+        title: Tutorial
+        location: Wachtkammer 3e Klasse
+      - time: 13:30-17:00
+        title: Alternative architectures
+        location: Wachtkammer 3e Klasse
+
+  - date: 2026-10-19
+    label: Monday 19 October
+    subtitle: Main conference
+    location: "Bedrijfsschool & foyer"
+    sessions:
+      - time: 08:00-09:00
+        title: Registration
+      - time: 09:00-09:10
+        title: Brief word of welcome
+      - time: 09:10-10:40
+        title: Oral session 1
+        papers_file: program/oral_1.csv
+
+      - time: 10:40-11:10
+        title: Coffee, sweets
+      - time: 11:10-12:10
+        title: "Keynote: Malvina Nissim"
+      - time: 12:10-13:00
+        title: Lunch
+      - time: 13:00-14:00
+        title: "Poster & demo session"
+        papers_file: program/poster_1.csv
+      - time: 14:00-15:30
+        title: Oral session 2
+        papers_file: program/oral_2.csv
+      - time: 15:30-16:00
+        title: Coffee/Tea break
+      - time: 16:00-17:00
+        title: "Poster & demo session"
+        papers_file: program/poster_2.csv
+
+  - date: 2026-10-20
+    label: Tuesday 20 October
+    subtitle: Main conference
+    location: "Bedrijfsschool & foyer"
+    sessions:
+      - time: 09:00-10:00
+        title: Oral session 3
+        papers_file: program/oral_3.csv
+      - time: 10:00-11:00
+        title: "Poster & demo session"
+        papers_file: program/poster_3.csv
+      - time: 11:00-11:30
+        title: Coffee/tea break
+      - time: 11:30-12:30
+        title: "Keynote: Marie-Catherine de Marneffe"
+      - time: 12:30-13:30
+        title: Lunch
+      - time: 13:30-14:30
+        title: Oral session 4
+        note: 4 papers
+        papers_file: program/oral_4.csv
+      - time: 14:30-15:30
+        title: "Keynote: Ehud Reiter"
+      - time: 15:30-16:00
+        title: Coffee/tea break
+      - time: 16:00-17:00
+        title: "Poster & demo session"
+        papers_file: program/poster_4.csv
+
+  - date: 2026-10-21
+    label: Wednesday 21 October
+    subtitle: Main conference
+    location: "Bedrijfsschool & foyer"
+    sessions:
+      - time: 09:00-09:45
+        title: Oral session 5
+        note: 3 papers
+        papers_file: program/oral_5.csv
+      - time: 09:45-10:30
+        title: SIGGEN Business meeting
+      - time: 10:30-11:00
+        title: Coffee/tea break
+      - time: 11:00-12:00
+        title: "Keynote: Seraphina Goldfarb-Tarrant"
+      - time: 12:00-13:00
+        title: Lunch
+      - time: 13:00-14:00
+        title: "Poster & demo session"
+        papers_file: program/poster_5.csv
+      - time: 14:00-15:10
+        title: Generation Challenges (GenChal) session
+      - time: 15:10-15:40
+        title: Coffee break
+      - time: 15:40-16:40
+        title: "Poster & demo session"
+      - time: 16:40-17:00
+        title: Closing ceremony

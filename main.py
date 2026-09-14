@@ -1,6 +1,7 @@
 # pylint: disable=global-statement,redefined-outer-name
 import argparse
 import csv
+from copy import deepcopy
 import glob
 import json
 import os
@@ -33,8 +34,59 @@ def load_sitedata(site_data_path):
         elif typ == "yml":
             site_data[name] = yaml.load(open(f).read(), Loader=yaml.SafeLoader)
 
+    extra_files.extend(glob.glob(os.path.join(site_data_path, "program", "*.csv")))
+
     print("Data Successfully Loaded")
     return extra_files
+
+
+def _parse_authors(value):
+    value = value.strip()
+    if not value:
+        return []
+    if value.startswith("[") and value.endswith("]"):
+        authors = yaml.safe_load(value)
+        return authors if isinstance(authors, list) else [value]
+    separator = ";" if ";" in value else ","
+    return [author.strip() for author in value.split(separator) if author.strip()]
+
+
+def load_program_papers(session):
+    papers_file = session.get("papers_file")
+    if not papers_file:
+        return session.get("papers", [])
+
+    path = os.path.join(site_data_path, papers_file)
+    with open(path, newline="", encoding="utf-8-sig") as csv_file:
+        reader = csv.DictReader(csv_file)
+        reader.fieldnames = [field.strip() for field in (reader.fieldnames or [])]
+        required_fields = {
+            "paper_id",
+            "paper_name",
+            "authors",
+            "paper_type",
+            "presentation_mode",
+        }
+        missing_fields = required_fields - set(reader.fieldnames or [])
+        if missing_fields:
+            raise ValueError(
+                f"{papers_file} is missing CSV columns: {', '.join(sorted(missing_fields))}"
+            )
+
+        papers = []
+        for row in reader:
+            if not row["paper_id"]:
+                continue
+            papers.append(
+                {
+                    "id": row["paper_id"].strip(),
+                    "title": row["paper_name"].strip(),
+                    "authors": _parse_authors(row["authors"]),
+                    "type": row["paper_type"].strip(),
+                    "presentation_mode": row["presentation_mode"].strip(),
+                }
+            )
+        return papers
 
 
 # ------------- SERVER CODE -------------------->
@@ -171,9 +223,12 @@ def sponsor_vi():
 @app.route("/program.html")
 def program():
     data = _data()
-    data["mdcontent"] = open("sitedata/program.md").read()
     data["section_title"] = "Program"
-    return render_template("single_md.html", **data)
+    data["program"] = deepcopy(site_data["program"])
+    for day in data["program"]["days"]:
+        for session in day["sessions"]:
+            session["papers"] = load_program_papers(session)
+    return render_template("program.html", **data)
 
 
 @app.route("/awards.html")

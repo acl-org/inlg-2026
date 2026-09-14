@@ -1,14 +1,72 @@
 {% extends "base.html" %}
 {% block content %}
 
-{% if section_title %}
-{{ components.section(section_title) }}
-{% endif %}
+<div class="program-page">
+  <p class="program-intro">Workshops and the main conference take place in Utrecht from 17 to 21 October 2026.</p>
 
-<div class="container-fluid">
-  <div class="row">
-    <div class="markdown col-sm border p-4" style="overflow: hidden;">{{ mdcontent | markdown }}</div>
-  </div>
+  {% for day in program.days %}
+  <section class="program-day" aria-labelledby="program-day-{{ day.date }}">
+    <header class="program-day-header">
+      <div>
+        <h2 id="program-day-{{ day.date }}">{{ day.label }}</h2>
+        <p>{{ day.subtitle }}</p>
+      </div>
+      {% if day.location %}
+      <span class="program-location">{{ day.location }}</span>
+      {% endif %}
+    </header>
+
+    <div class="program-sessions">
+      {% for session in day.sessions %}
+      <article class="program-session">
+        <time class="program-time">{{ session.time }}</time>
+        <div class="program-session-content">
+          <h3>{{ session.title }}</h3>
+          {% if session.note %}<span class="program-note">{{ session.note }}</span>{% endif %}
+          {% if session.location %}<div class="program-session-location">{{ session.location }}</div>{% endif %}
+          {% if session.papers %}
+          <ul class="program-papers">
+            {% for paper in session.papers %}
+            <li>
+              {% if paper.type %}<span class="program-paper-type">{{ paper.type }}</span>{% endif %}
+              {% if paper.url %}<a href="{{ paper.url }}">{{ paper.title }}</a>{% else %}{{ paper.title }}{% endif %}
+              {% if paper.id %}<span class="program-paper-id">{{ paper.id }}</span>{% endif %}
+              {% if paper.authors %}<span>{{ paper.authors if paper.authors is string else paper.authors | join(", ") }}</span>{% endif %}
+            </li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+  {% endfor %}
 </div>
+
+<style>
+  .program-intro { color: #5c6570; margin: 0 0 2rem; }
+  .program-day { border-top: 4px solid #1d5d63; margin-bottom: 3rem; }
+  .program-day-header { align-items: baseline; display: flex; gap: 1rem; justify-content: space-between; padding: 1rem 0 0.8rem; }
+  .program-day-header h2 { color: #1d5d63; font-size: 1.65rem; margin: 0; }
+  .program-day-header p { color: #707983; margin: 0.2rem 0 0; }
+  .program-location, .program-session-location { color: #707983; font-size: 0.9rem; }
+  .program-location { text-align: right; }
+  .program-session { border-top: 1px solid #dce3e5; display: grid; gap: 1rem; grid-template-columns: 7rem 1fr; padding: 1rem 0; }
+  .program-time { color: #1d5d63; font-weight: 600; white-space: nowrap; }
+  .program-session-content h3 { display: inline; font-size: 1.05rem; font-weight: 600; margin: 0; }
+  .program-note { color: #707983; font-size: 0.9rem; margin-left: 0.5rem; }
+  .program-session-location { margin-top: 0.35rem; }
+  .program-papers { border-left: 2px solid #e4b64d; list-style: none; margin: 0.8rem 0 0; padding-left: 1rem; }
+  .program-papers li { margin: 0.45rem 0; }
+  .program-papers span { color: #707983; display: block; font-size: 0.9rem; }
+  .program-papers .program-paper-type { color: #1d5d63; font-size: 0.75rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; }
+  .program-papers .program-paper-id { display: inline; font-size: 0.75rem; margin-left: 0.5rem; }
+  @media (max-width: 576px) {
+    .program-day-header { align-items: flex-start; flex-direction: column; gap: 0.35rem; }
+    .program-location { text-align: left; }
+    .program-session { gap: 0.5rem; grid-template-columns: 1fr; }
+  }
+</style>
 
 {% endblock %}
