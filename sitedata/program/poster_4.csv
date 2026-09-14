@@ -5,7 +5,7 @@
 50,Dynamic Intent-Driven API Pruning for Tool Learning in Small Language Models,"Tzu-Hao Wang, Ting-Chun Yang, Sin-Syuan Wu, Yao-Chung Fan",long,Accept (Poster),
 161,Confabulation in a Caption-then-Generate Pipeline: Evaluating Vision–Language Generation of Adolescent Health Information,"Abigail Naa Amankwaa Abeo, Steven Smith, Hannah Goss, Michael Scriney",long,Accept (Poster),
 132,Do LLMs Make More Mistakes If They Do Not Believe the Input Data?,"Peter Kochelka, Aleš Manuel Papáček, Vojtěch Dvořák, Ondrej Dusek",short,Accept (Poster),
-185,Modular Multilingual Language Models with Language-Specific Embeddings,"Nalin Kumar, Ondrej Dusek",work in progress,Accept (Poster),
+185,Modular Multilingual Language Models with Language-Specific Embeddings,"Nalin Kumar, Ondrej Dusek",non-archival,Accept (Poster),
 124,Distractors for Multiple-choice Questions for Reading Comprehension: Automatic Generation and Evaluation,"Yixi Chen, Shunjie Wang, LI JIAYI, John Sie Yuen Lee",short,Accept (Poster),
 45,Automatic vs. Human Evaluation: Benchmarking 26 Automatic Metrics for Clinical Discharge Summaries,"Yu-Wen Chen, Anne de Hond, Laura Veerhoek, Ruben Peters, Karel GM Moons, Artuur Leeuwenberg",long,Accept (Poster),
 ARR-12,Beyond Fine-Tuning: In-Context Learning and Chain-of-Thought for Reasoned Distractor Generation,"Elaf Alhazmi, Quan Z. Sheng, Wei Emma Zhang",long,Accept (Poster),
@@ -14,7 +14,7 @@ ARR-12,Beyond Fine-Tuning: In-Context Learning and Chain-of-Thought for Reasoned
 24,Metric Cards Make Blind Spots Legible,"Minh Anh Nguyen, Nils Feldhus",long,Accept (Poster),
 ARR-4,"Retell, Reward, Repeat: Reinforcement Learning for Narrative Theory-Informed LLM Story Retelling","David Y. Liu, Xanthe Muston, Dipankar Srirag, Aditya Joshi, Paul Dawson, Sebastian Sequoiah-Grayson",long,Accept (Poster),
 53,The Impact of Model Size on Detection of LLM Hallucinations,"Matt Boerio, Paul Groth",short,Accept (Poster),
-167,"Criterion Definitions, Not Criterion Names, Determine What an LLM Judge Measures",Srinivas Harish,work in progress,Accept (Poster),
+167,"Criterion Definitions, Not Criterion Names, Determine What an LLM Judge Measures",Srinivas Harish,non-archival,Accept (Poster),
 23,From Tables to Quantified Statements: Evaluating LLM Inference Generation through Executable Verification,"Mai Mohamed Eida, Gunjan Anand, Ayush Singh, Aleksandre Maskharashvili",long,Accept (Poster),
-179,Beyond Single Gold Labels: Human Variability and Conceptualisation in Chinese Classifier Use,"Yongheng Peng, Guanyi Chen, Tingting He",already published,Accept (Poster),
-54,BikeCoach: A Demo System for Aspect-based Advice Generation Conditioned on Sport Training Protocols,"Matīss Rikters, Tatsuya Ishigaki, Masayuki Kawarada, Shota Kato, Sohei Washino, HirokiYamaguchi",already published,Accept (Poster),demo
+179,Beyond Single Gold Labels: Human Variability and Conceptualisation in Chinese Classifier Use,"Yongheng Peng, Guanyi Chen, Tingting He",non-archival,Accept (Poster),
+54,BikeCoach: A Demo System for Aspect-based Advice Generation Conditioned on Sport Training Protocols,"Matīss Rikters, Tatsuya Ishigaki, Masayuki Kawarada, Shota Kato, Sohei Washino, HirokiYamaguchi",non-archival,Accept (Poster),demo
