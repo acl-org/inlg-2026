@@ -4,8 +4,21 @@
 <div class="program-page">
   <p class="program-intro">Workshops and the main conference take place in Utrecht from 17 to 21 October 2026.</p>
 
+  <div class="program-day-tabs" role="tablist" aria-label="Program days">
+    {% for day in program.days %}
+    <a class="program-day-tab nav-link{% if loop.first %} active{% endif %}"
+      id="program-tab-{{ day.date }}" data-toggle="tab" href="#program-pane-{{ day.date }}" role="tab"
+      aria-controls="program-pane-{{ day.date }}" aria-selected="{{ 'true' if loop.first else 'false' }}">
+      <span>{{ day.label.split(' ')[0] }}</span>
+      <strong>{{ day.label.split(' ')[1] }} {{ day.label.split(' ')[2] }}</strong>
+    </a>
+    {% endfor %}
+  </div>
+
+  <div class="tab-content">
   {% for day in program.days %}
-  <section class="program-day" aria-labelledby="program-day-{{ day.date }}">
+  <section class="program-day tab-pane fade{% if loop.first %} show active{% endif %}" id="program-pane-{{ day.date }}"
+    role="tabpanel" aria-labelledby="program-tab-{{ day.date }}">
     <header class="program-day-header">
       <div>
         <h2 id="program-day-{{ day.date }}">{{ day.label }}</h2>
@@ -42,11 +55,19 @@
     </div>
   </section>
   {% endfor %}
+  </div>
 </div>
 
 <style>
   .program-intro { color: #5c6570; margin: 0 0 2rem; }
-  .program-day { border-top: 4px solid #1d5d63; margin-bottom: 3rem; }
+  .program-day-tabs { border-bottom: 2px solid #dce3e5; display: flex; gap: 0.35rem; margin-bottom: 2rem; overflow-x: auto; }
+  .program-day-tab { border-bottom: 3px solid transparent; color: #707983; flex: 1 0 9rem; padding: 0.7rem 0.8rem 0.8rem; text-align: center; white-space: nowrap; }
+  .program-day-tab:hover { color: #1d5d63; }
+  .program-day-tab.active { background: transparent; border-bottom-color: #1d5d63; color: #1d5d63; }
+  .program-day-tab span, .program-day-tab strong { display: block; }
+  .program-day-tab span { font-size: 0.8rem; }
+  .program-day-tab strong { font-size: 1rem; font-weight: 600; }
+  .program-day { border-top: 4px solid #1d5d63; margin-bottom: 3rem; padding-top: 0.1rem; }
   .program-day-header { align-items: baseline; display: flex; gap: 1rem; justify-content: space-between; padding: 1rem 0 0.8rem; }
   .program-day-header h2 { color: #1d5d63; font-size: 1.65rem; margin: 0; }
   .program-day-header p { color: #707983; margin: 0.2rem 0 0; }
