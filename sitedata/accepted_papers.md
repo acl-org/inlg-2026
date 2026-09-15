@@ -97,7 +97,7 @@
 - **Are LLM Judges Language-Neutral? A Cross-Lingual Meta-Evaluation on Multilingual Summarization**<br>
   Mohammaderfan Koupaei, Amir Esmaeili, Mahshid Khanali, Florian Mai, Patrícia Schmidtová
 - **One Feedback System Does Not Fit All:Localising Data-to-Text Driver Coaching for the UK and Nigeria**<br>
-  Jawwad Baig, Ehud Reiter, Iniakpokeikiye Peter Thompson, Dewei Yi
+  Iniakpokeikiye Peter Thompson, Jawwad Baig, Ehud Reiter, Dewei Yi
 - **Controllable Lexical Alignment in Dialogue Systems**<br>
   Sumit Srivastava, Mariët Theune, Alejandro Catala
 - **More Than Rainfall: A Multi-Dimensional Analysis of LLM Flood Cause Multi-document Summarization for Disaster Risk Management**<br>
