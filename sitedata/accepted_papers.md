@@ -22,7 +22,7 @@
   Katharina Anderer, Jan Niehues, Karin Müller, Matthias Wölfel
 - **PromptDistill: Query-based Selective Token Retention in Intermediate Layers for Efficient Large Language Model Inference**<br>
   Weisheng Jin, Maojia Song, Tej Deep Pala, Yew Ken Chia, Dorien Herremans, Soujanya Poria
-- **FJ-Guard: Stubbornness-Guided Training-Free Defense for LLM-based Multi-Agent Systems**<br>
+- **FJ-Guard: Persistence-Guided Training-Free Defense for LLM-based Multi-Agent Systems**<br>
   Yudai Yamazaki, Kentaro Kita, Hiroya Kato, Kento Hasegawa, Seira Hidano
 - **CAAF: Confidence and Agreement-Aware Fusion for Multi-LLM Ensembles**<br>
   Momojit Biswas, Preethu Rose Anish
