@@ -55,6 +55,11 @@ The **19th International Conference on Natural Language Generation** will be in 
 <div class="news-card">
 
 <div class="news-item">
+<div class="news-date">Sep 23</div>
+<div class="news-copy"><span class="news-label">UPDATE</span> For workshops and tutorials, lunch will be provided at the venue free of charge.</div>
+</div>
+
+<div class="news-item">
 <div class="news-date">Sep 14</div>
 <div class="news-copy"><span class="news-label">NEW!</span> We've published the first draft of <a href="https://2026.inlgmeeting.org/program.html">the complete program</a>.</div>
 </div>

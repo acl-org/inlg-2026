@@ -16,9 +16,10 @@ The registration fees cover:
 * Attendance to the conference program
 * Coffee/snacks during the main conference and workshops
 * Lunch during the main conference days
+* Lunch at the venue for workshops and tutorials, included free of charge
 * The two social events: the welcome reception and the outing
 
-**Note**: during the workshops, attendees are expected to plan for lunch independently.
+For workshops and tutorials, lunch is provided at the venue free of charge.
 
 The conference banquet is at an extra charge (to be announced this week). Please indicate on the registration form whether you also plan to attend the dinner, and the cost will be added to the payment automically.
 
