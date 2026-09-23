@@ -14,6 +14,81 @@
 		</div>
 	</div>
 </div>
+
+<div class="card mb-4">
+	<div class="card-body">
+		<h4 class="mb-3">Workshop and tutorial day structure</h4>
+		<div class="row g-4">
+			<div class="col-md-6">
+				<div class="table-responsive">
+					<h5 class="mb-3">Saturday</h5>
+					<table class="table table-sm align-middle mb-0 schedule-table">
+						<thead>
+							<tr>
+								<th scope="col" style="width: 38%;">Time</th>
+								<th scope="col">Agenda</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr><td>08:00 – 09:00</td><td>Walk-in and registration <span class="text-muted">(Strikkerhuis)</span></td></tr>
+							<tr><td>09:00 – 10:30</td><td>Morning session 1</td></tr>
+							<tr><td>10:30 – 11:00</td><td>Coffee break <span class="text-muted">(Restauratiezaal)</span></td></tr>
+							<tr><td>11:00 – 12:30</td><td>Morning session 2</td></tr>
+							<tr><td>12:30 – 13:30</td><td>Lunch <span class="text-muted">(Restauratiezaal)</span></td></tr>
+							<tr><td>13:30 – 15:00</td><td>Afternoon session 1</td></tr>
+							<tr><td>15:00 – 15:30</td><td>Coffee break <span class="text-muted">(Restauratiezaal)</span></td></tr>
+							<tr><td>15:30 – 17:00</td><td>Afternoon session 2</td></tr>
+						</tbody>
+					</table>
+				</div>
+			</div>
+			<div class="col-md-6">
+				<div class="table-responsive">
+					<h5 class="mb-3">Sunday</h5>
+					<table class="table table-sm align-middle mb-0 schedule-table">
+						<thead>
+							<tr>
+								<th scope="col" style="width: 38%;">Time</th>
+								<th scope="col">Agenda</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr><td>08:00 – 09:00</td><td>Walk-in and registration <span class="text-muted">(Strikkerhuis)</span></td></tr>
+							<tr><td>09:00 – 10:30</td><td>Morning session 1</td></tr>
+							<tr><td>10:30 – 11:00</td><td>Coffee break <span class="text-muted">(Restauratiezaal)</span></td></tr>
+							<tr><td>11:00 – 12:30</td><td>Morning session 2</td></tr>
+							<tr><td>12:30 – 13:30</td><td>Lunch <span class="text-muted">(Restauratiezaal)</span></td></tr>
+							<tr><td>13:30 – 15:00</td><td>Afternoon session 1</td></tr>
+							<tr><td>15:00 – 15:30</td><td>Coffee break <span class="text-muted">(Restauratiezaal)</span></td></tr>
+							<tr><td>15:30 – 17:00</td><td>Afternoon session 2</td></tr>
+						</tbody>
+					</table>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<style>
+	.schedule-table th {
+		background: #f3f6f7;
+		color: #1d5d63;
+		font-weight: 700;
+		border-bottom: 2px solid #dce3e5;
+	}
+	.schedule-table td {
+		vertical-align: middle;
+		padding-top: 0.7rem;
+		padding-bottom: 0.7rem;
+	}
+	.schedule-table tbody tr:nth-child(even) {
+		background: #fafcfc;
+	}
+	.schedule-table .text-muted {
+		color: #707983 !important;
+	}
+</style>
+
 {{ components.callgroup(calls) }}
 
 {% endblock %}

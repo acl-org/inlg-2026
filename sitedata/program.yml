@@ -1,7 +1,7 @@
 days:
   - date: 2026-10-17
     label: Saturday 17 October
-    subtitle: Workshops
+    subtitle: Workshops & Tutorial
     sessions:
       - time: 08:00-09:00
         title: Registration and walk-in
@@ -19,7 +19,7 @@ days:
 
   - date: 2026-10-18
     label: Sunday 18 October
-    subtitle: Workshops
+    subtitle: Workshops & Tutorial
     sessions:
       - time: 08:00-09:00
         title: Registration and walk-in
