@@ -11,7 +11,7 @@ days:
         note: All day
         location: Restauratiezaal
       - time: 09:00-12:30
-        title: Wolfdial
+        title: AIWolfDial
         location: Wachtkammer 3e Klasse
       - time: 13:30-17:00
         title: Industrial NLP
