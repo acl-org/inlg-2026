@@ -7,13 +7,18 @@ We have put together an exciting social program in our city during INLG 2026. Pl
 The welcome reception, sponsored by the [City of Utrecht](https://www.utrecht.nl/city-of-utrecht), will take place at the [Academiegebouw](https://www.uu.nl/organisatie/academiegebouw), the central building of Utrecht University, right in the heart of the city next to the iconic [Domtoren](https://www.domtoren.nl/).
 
 - **Date:** 18 October, 2026
-- **Time:** TBD
+- **Time:** 18:00 to 20:00
 - **Location:** [Academiegebouw](https://maps.app.goo.gl/PyLqc4gwc4zvThu98), Domplein 29, 3512 JE Utrecht 
 - **Price:** Free with registration
 
 ### Social outing
 
-We are planning an outing in the city of Utrecht, free of charge. More information to follow.
+This outing will consist of free guided tours of the city and its highlights.
+
+- **Date:** 19 October, 2026
+- **Time:** 18:00 
+- **Location:** Meet at the [Domplein](https://maps.app.goo.gl/ifYocB5cyi7vQSN17) in front of the Dom tower. 
+- **Price:** Free with registration
 
 ### Conference dinner
 
