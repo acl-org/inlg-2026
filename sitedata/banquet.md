@@ -22,7 +22,7 @@ This outing will consist of free guided tours of the city and its highlights.
 
 ### Conference dinner
 
-INLG attendees are invited to a conference dinner at Humphrey's Utrecht. The dinner is at an extra cost of €50, which includes a three-course meal and drinks. Pre-booking is essential, and needs to be done via the registration form.
+INLG attendees are invited to a conference dinner at Humphrey's Utrecht. The dinner is at an extra cost of €50, which includes a three-course meal and drinks. Pre-booking was essential.
 
 - **Date:** 20th Octobter, 2026
 - **Time:** 18:30
