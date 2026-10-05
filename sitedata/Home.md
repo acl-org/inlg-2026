@@ -55,6 +55,11 @@ The **19th International Conference on Natural Language Generation** will be in 
 <div class="news-card">
 
 <div class="news-item">
+<div class="news-date">Oct 05</div>
+<div class="news-copy"><strong>Registration is now closed.</strong> We are no longer accepting registrations for INLG 2026.</div>
+</div>
+
+<div class="news-item">
 <div class="news-date">Sep 23</div>
 <div class="news-copy"><span class="news-label">UPDATE</span> For workshops and tutorials, lunch will be provided at the venue free of charge.</div>
 </div>
@@ -71,7 +76,7 @@ The **19th International Conference on Natural Language Generation** will be in 
 
 <div class="news-item">
 <div class="news-date">Aug 06</div>
-<div class="news-copy"> Registration is now open. Please visit the <a href="https://2026.inlgmeeting.org/registration.html">registration section</a> for more information.</div>
+<div class="news-copy"> Registration was open from August 6 until October 5, 2026.</div>
 </div>
 
 <div class="news-item">
@@ -124,6 +129,3 @@ For more details, check out the [Calls page](/calls.html).
 ##### Call for Workshop Papers
 
 See the [workshop page](/workshops-tutorials.html).
-
-
-

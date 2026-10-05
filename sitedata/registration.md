@@ -1,10 +1,8 @@
 ### Registration 
 
-Registration proceeds through [an external registration form managed by Utrecht University](https://forms.uu.nl/universiteitutrecht-beta/INLG_2026). 
+Registration for INLG 2026 is now completely closed. We are no longer accepting new registrations.
 
-Note that the form includes a questionnaire for participants. If you are registering as a presenter of an accepted paper, please do not forget to **fill in the ID of the paper you are presenting**.
-
-No payment is requested via this form. After you complete the registration form, you will receive a **separate payment link** by email. Once payment is done, you will receive an invoice and a confirmation letter. This confirmation letter can also be used a proof of attendance for visa applications. **Please be aware that it might take 2-3 days for the payment link to be sent. If you register via the form within the early registration deadline, you will still be charged the early registration fees, even if the payment link reaches you after the deadline.**
+The information below is retained for reference only.
 
 ### Visa requirements
 If you need a visa to travel to the Netherlands, and need to supply proof of your attendance to INLG, you can use the confirmation letter that we send you upon receipt of your registration fee.
@@ -21,7 +19,7 @@ The registration fees cover:
 
 For workshops and tutorials, lunch is provided at the venue free of charge.
 
-The conference banquet is at an extra charge (to be announced this week). Please indicate on the registration form whether you also plan to attend the dinner, and the cost will be added to the payment automically.
+The conference banquet was available at an extra charge. Pre-booking was required.
 
 Each main conference paper should have **at least one registered presenter**, in order to be included in the program. The registration costs for paper presenters are the same, regardless of whether you are attending in person or not.
 
