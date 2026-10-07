@@ -71,23 +71,23 @@ days:
     subtitle: Main conference
     location: "Bedrijfsschool & foyer"
     sessions:
-      - time: 09:00-10:00
+      - time: 09:00-09:45
         title: Oral session 3
         papers_file: program/oral_3.csv
-      - time: 10:00-11:00
+      - time: 09:45-10:45
         title: "Poster & demo session"
         papers_file: program/poster_3.csv
-      - time: 11:00-11:30
+      - time: 10:45-11:15
         title: Coffee/tea break
-      - time: 11:30-12:30
+      - time: 11:15-12:15
         title: "Keynote: Marie-Catherine de Marneffe"
-      - time: 12:30-13:30
+      - time: 12:15-13:15
         title: Lunch
-      - time: 13:30-14:30
+      - time: 13:15:14:15
         title: Oral session 4
         note: 4 papers
         papers_file: program/oral_4.csv
-      - time: 14:30-15:30
+      - time: 14:15-15:30
         title: "Keynote: Ehud Reiter"
       - time: 15:30-16:00
         title: Coffee/tea break
