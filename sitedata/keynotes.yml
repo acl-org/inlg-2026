@@ -10,8 +10,8 @@ speakers:
     aff: University of Groningen
     url: https://malvinanissim.github.io/
     im: static/images/speakers/malvina_nissim.jpeg
-    keynote_title: TBA
-    keynote_description: Description coming soon.
+    keynote_title: Playing with Language (Models)
+    keynote_description: Games are a quite special feature of human behaviour. They involve invented and voluntarily adopted rules and constraints, shared conventions, and - hopefully! - enjoyment of the activity for its own sake. Wordplay brings all this into language, leveraging many central properties of language and human communication that have historically been difficult for machines to deal with. Think of ambiguity, implicitness, and humour, for instance. This makes language games a great way to study the abilities of language models. We will play different games together, each tied to experiments we have run, where we see where and how models succeed and fail and what we can learn from this. I will then change perspective and look at (language) games not as evaluation tools, but as teaching tools in the context of AI literacy. Bringing together the playful and creative aspects of language (games), and the evaluation of language models, I will end with some broader considerations on language and models that I have been mulling over extensively (and probably excessively) in the last few months.
 
   - name: Marie-Catherine de Marneffe
     aff: FNRS - UCLouvain
@@ -25,5 +25,5 @@ speakers:
     aff: Cohere
     url: https://seraphinatarrant.github.io/
     im: static/images/speakers/seraphina_goldfarb.jpeg
-    keynote_title: TBA
-    keynote_description: Description coming soon.
+    keynote_title: The World Outside the Beaker: Modelling the Complexity of Sociotechnical Generative Systems.
+    keynote_description: Training and evaluation for LLMs has become increasingly complex. Everything in daily life is now an open-domain generative task, and each task has many models acting as the generator, the simulated user, and the proxy evaluator, which together form a complex system. The majority of research presumes that the only important part of this system is the generator model, and optimise only that. I will discuss research, predominantly in the safety and security domains, but also for agentic models overall, showing why is is dangerous to overlook the other parts of the system. I will call for us as a field to have the courage to incorporate the complexity of the systems we build and experiment on.
