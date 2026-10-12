@@ -117,6 +117,7 @@ days:
         papers_file: program/poster_5.csv
       - time: 14:00-15:10
         title: Generation Challenges (GenChal) session
+        papers_file: program/genchal_papers.csv
       - time: 15:10-15:40
         title: Coffee break
       - time: 15:40-16:40
