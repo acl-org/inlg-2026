@@ -83,7 +83,7 @@ days:
         title: "Keynote: Marie-Catherine de Marneffe"
       - time: 12:15-13:15
         title: Lunch
-      - time: 13:15:14:15
+      - time: 13:15-14:15
         title: Oral session 4
         note: 4 papers
         papers_file: program/oral_4.csv

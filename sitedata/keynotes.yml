@@ -25,5 +25,5 @@ speakers:
     aff: Cohere
     url: https://seraphinatarrant.github.io/
     im: static/images/speakers/seraphina_goldfarb.jpeg
-    keynote_title: The World Outside the Beaker: Modelling the Complexity of Sociotechnical Generative Systems.
+    keynote_title: "The World Outside the Beaker: Modelling the Complexity of Sociotechnical Generative Systems."
     keynote_description: Training and evaluation for LLMs has become increasingly complex. Everything in daily life is now an open-domain generative task, and each task has many models acting as the generator, the simulated user, and the proxy evaluator, which together form a complex system. The majority of research presumes that the only important part of this system is the generator model, and optimise only that. I will discuss research, predominantly in the safety and security domains, but also for agentic models overall, showing why is is dangerous to overlook the other parts of the system. I will call for us as a field to have the courage to incorporate the complexity of the systems we build and experiment on.
