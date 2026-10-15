@@ -40,11 +40,11 @@ days:
     subtitle: Main conference
     location: "Bedrijfsschool & foyer"
     sessions:
-      - time: 08:00-09:00
+      - time: 08:00-09:15
         title: Registration
-      - time: 09:00-09:10
+      - time: 09:15-09:30
         title: Brief word of welcome
-      - time: 09:10-10:40
+      - time: 09:30-10:40
         title: Oral session 1
         papers_file: program/oral_1.csv
 
@@ -52,12 +52,12 @@ days:
         title: Coffee, sweets
       - time: 11:10-12:10
         title: "Keynote: Malvina Nissim"
-      - time: 12:10-13:00
+      - time: 12:10-13:15
         title: Lunch
-      - time: 13:00-14:00
+      - time: 13:15-14:15
         title: "Poster & demo session"
         papers_file: program/poster_1.csv
-      - time: 14:00-15:30
+      - time: 14:15-15:30
         title: Oral session 2
         papers_file: program/oral_2.csv
       - time: 15:30-16:00
