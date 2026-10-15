@@ -5,7 +5,7 @@ days:
     sessions:
       - time: 08:00-09:00
         title: Registration and walk-in
-        location: Strikkerhuis
+        location: Spoorwegmuseum foyer
       - time: 09:00-17:00
         title: "YNLG: talks and discussion"
         note: All day
@@ -23,7 +23,7 @@ days:
     sessions:
       - time: 08:00-09:00
         title: Registration and walk-in
-        location: Strikkerhuis
+        location: Spoorwegmuseum foyer
       - time: 09:00-17:00
         title: "YNLG: Hackathon"
         note: All day
