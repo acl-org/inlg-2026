@@ -120,7 +120,5 @@ days:
         papers_file: program/genchal_papers.csv
       - time: 15:10-15:40
         title: Coffee break
-      - time: 15:40-16:40
-        title: "Poster & demo session"
-      - time: 16:40-17:00
-        title: Closing ceremony
+      - time: 15:40-16:00
+        title: "Closing ceremony"
