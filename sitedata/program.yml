@@ -103,7 +103,7 @@ days:
         papers_file: program/poster_4.csv
       - time: 18:30-
         title: "Conference dinner"
-        papers_file: "Humphrey's Utrecht"
+        location: "Humphrey's Utrecht"
 
   - date: 2026-10-21
     label: Wednesday 21 October
