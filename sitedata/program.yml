@@ -69,7 +69,7 @@ days:
       - time: 16:00-17:00
         title: "Poster & demo session"
         papers_file: program/poster_2.csv
-      - time: 18:00-
+      - time: 18:00
         title: "Social Outing"
         location: "Domplein in front of the Dom tower"
 
@@ -101,7 +101,7 @@ days:
       - time: 16:00-17:00
         title: "Poster & demo session"
         papers_file: program/poster_4.csv
-      - time: 18:30-
+      - time: 18:30
         title: "Conference dinner"
         location: "Humphrey's Utrecht"
 
