@@ -29,7 +29,7 @@ days:
         note: All day
         location: Restauratiezaal
       - time: 09:00-12:30
-        title: Tutorial
+        title: "Beyond Leaderboards: Evaluation Practices for Open-Ended and Perspectival NLG"
         location: Wachtkammer 3e Klasse
       - time: 13:30-17:00
         title: Alternative architectures
