@@ -34,6 +34,10 @@ days:
       - time: 13:30-17:00
         title: Alternative architectures
         location: Wachtkammer 3e Klasse
+      - time: 18:00-20:00
+        title: Welcome reception
+        location: "Academiegebouw, Domplein 29, 3512 JE Utrecht"
+      
 
   - date: 2026-10-19
     label: Monday 19 October
@@ -65,6 +69,9 @@ days:
       - time: 16:00-17:00
         title: "Poster & demo session"
         papers_file: program/poster_2.csv
+      - time: 18:00-
+        title: "Social Outing"
+        location: "Domplein in front of the Dom tower"
 
   - date: 2026-10-20
     label: Tuesday 20 October
@@ -94,6 +101,9 @@ days:
       - time: 16:00-17:00
         title: "Poster & demo session"
         papers_file: program/poster_4.csv
+      - time: 18:30-
+        title: "Conference dinner"
+        papers_file: "Humphrey's Utrecht"
 
   - date: 2026-10-21
     label: Wednesday 21 October
