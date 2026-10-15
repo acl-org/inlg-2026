@@ -42,6 +42,7 @@
           <ul class="program-papers">
             {% for paper in session.papers %}
             <li>
+              {% if paper.presentation_mode %}<span class="program-paper-presentation">{{ paper.presentation_mode }}</span>{% endif %}
               {% if paper.type %}<span class="program-paper-type">{{ paper.type }}</span>{% endif %}
               {% if paper.url %}<a href="{{ paper.url }}">{{ paper.title }}</a>{% else %}{{ paper.title }}{% endif %}
               {% if paper.id %}<span class="program-paper-id">{{ paper.id }}</span>{% endif %}
@@ -86,6 +87,7 @@
   .program-papers { border-left: 2px solid #e4b64d; list-style: none; margin: 0.8rem 0 0; padding-left: 1rem; }
   .program-papers li { margin: 0.45rem 0; }
   .program-papers span { color: #707983; display: block; font-size: 0.9rem; }
+  .program-papers .program-paper-presentation { color: #1d5d63; font-size: 0.75rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; }
   .program-papers .program-paper-type { color: #1d5d63; font-size: 0.75rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; }
   .program-papers .program-paper-id { display: inline; font-size: 0.75rem; margin-left: 0.5rem; }
   @media (max-width: 576px) {
