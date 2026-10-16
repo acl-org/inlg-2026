@@ -12,10 +12,10 @@ days:
         location: Restauratiezaal
       - time: 09:00-12:30
         title: AIWolfDial
-        location: Wachtkammer 3e Klasse
+        location: Wachtkamer 3e Klasse
       - time: 13:30-17:00
         title: Industrial NLP
-        location: Wachtkammer 3e Klasse
+        location: Wachtkamer 3e Klasse
 
   - date: 2026-10-18
     label: Sunday 18 October
@@ -30,10 +30,10 @@ days:
         location: Restauratiezaal
       - time: 09:00-12:30
         title: "Beyond Leaderboards: Evaluation Practices for Open-Ended and Perspectival NLG"
-        location: Wachtkammer 3e Klasse
+        location: Wachtkamer 3e Klasse
       - time: 13:30-17:00
         title: Alternative architectures
-        location: Wachtkammer 3e Klasse
+        location: Wachtkamer 3e Klasse
       - time: 18:00-20:00
         title: Welcome reception
         location: "Academiegebouw, Domplein 29, 3512 JE Utrecht"
