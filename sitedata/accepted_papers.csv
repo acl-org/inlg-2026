@@ -69,6 +69,8 @@ Long,77,Comparing Retrieval-Augmented Generation Pipelines for Energy-Aware Code
 Long,78,Confabulation in a Caption-then-Generate Pipeline: Evaluating Vision–Language Generation of Adolescent Health Information,"Abigail Naa Amankwaa Abeo, Steven Smith, Hannah Goss, Michael Scriney",long/watermarked_pdfs/78.pdf
 Long,79,A Multi-Faceted Analytical Framework for Text Quality Evaluation in Creative Open-Ended Generation,Esteban Garces Arias,long/watermarked_pdfs/79.pdf
 Long,1,Rate-Resolved Text Evaluation with Masked Diffusion Language Models,"Yiqi Liu, Kun Zhao, Chenghua Lin, Nafise Sadat Moosavi",long/watermarked_pdfs/1.pdf
+Long,,Feedback as an Interface: Controlling Form and Detail in LLM Translation Refinement,"Yiqi Liu, Flavjo Tomori, Nafise Sadat Moosavi, Steffen Eger, Chenghua Lin",
+Long,,JudgeMoE: Distributional Aggregation for LLM-as-a-Judge,"Yiqi Liu, Joseph James, Yang Wang, Kun Zhao, Chenghao Xiao, Chenghua Lin",
 Long,2,"Retell, Reward, Repeat: Reinforcement Learning for Narrative Theory-Informed LLM Story Retelling","David Y. Liu, Xanthe Muston, Dipankar Srirag, Aditya Joshi, Paul Dawson, Sebastian Sequoiah-Grayson",long/watermarked_pdfs/2.pdf
 Long,3,Do We Really Need So Many Tokens? The Performance-Efficiency Trade-off in Tibetan and Sanskrit,"Orr Meir Zwebner, Kai Golan Hashiloni, Guy Bilitski, Oded Hellman, Nir Marciano, Shai Fine, Kfir Bar",long/watermarked_pdfs/3.pdf
 Long,4,A Multi-Stage Agentic Framework for Effective Counter-Narrative Generation and Refinement,"Carmel Kronfeld, Sharva Gogawale, Tetsuro Kobayashi, Irad Ben Gal",long/watermarked_pdfs/4.pdf
