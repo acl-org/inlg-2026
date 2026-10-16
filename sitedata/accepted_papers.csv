@@ -1,0 +1,126 @@
+paper_type,paper_id,title,authors,pdf
+Long,12,A Constraint-Based Formalism for Controlled Text Generation,Lionel Clément,long/watermarked_pdfs/12.pdf
+Long,13,Can we use LLMs to generate data-driven patient narratives? A multi-method exploration in the oncology domain,"Nele Albers, Linwei He, Anouk Teunissen, Kelly M. de Ligt, Nadine Bol, Emiel Krahmer",long/watermarked_pdfs/13.pdf
+Long,14,Chain-of-Thought Depth Modulates Performance by Task and Model: Evidence from Ablation Studies Across Five Model Families,N.ANEESH.DUTT,long/watermarked_pdfs/14.pdf
+Long,15,ADR-Control: Do LLM Coding Agents Follow Architectural Decisions? An Evaluation of ADR-Grounded Code Generation,"Pham The Phong, Phan Duy Hung",long/watermarked_pdfs/15.pdf
+Long,16,Not All Linguistic Capabilities Degrade Equally Under Quantization,Arunabh Majumdar,long/watermarked_pdfs/16.pdf
+Long,17,Retrieval-Augmented Generation Must Move Beyond Factual Grounding to Represent Diverse Opinions,"Aditya Agrawal, Alwarappan Nakkiran, Alex Karlsson, Aman Singh Thakur, Harsha Aduri",long/watermarked_pdfs/17.pdf
+Long,18,ViInfoSum: A Novel Dataset for Multimodal Summarization in Vietnamese,"Nguyen Khoi Tran, Binh Xuan Le, Nghia Hieu Nguyen, Khiem Vinh Tran, Ngan Luu-Thuy Nguyen",long/watermarked_pdfs/18.pdf
+Long,19,From Tables to Quantified Statements: Evaluating LLM Inference Generation through Executable Verification,"Mai Mohamed Eida, Gunjan Anand, Ayush Singh, Aleksandre Maskharashvili",long/watermarked_pdfs/19.pdf
+Long,20,Metric Cards Make Blind Spots Legible,"Minh Anh Nguyen, Nils Feldhus",long/watermarked_pdfs/20.pdf
+Long,21,Augmenting Lecture Information via Redundancy-Filtered LLM Slide Descriptions for Blind and Low-Vision Students,"Katharina Anderer, Jan Niehues, Karin Müller, Matthias Wölfel",long/watermarked_pdfs/21.pdf
+Long,22,PromptDistill: Query-based Selective Token Retention in Intermediate Layers for Efficient Large Language Model Inference,"Weisheng Jin, Maojia Song, Tej Deep Pala, Yew Ken Chia, Dorien Herremans, Soujanya Poria",long/watermarked_pdfs/22.pdf
+Long,23,FJ-Guard: Persistence-Guided Training-Free Defense for LLM-based Multi-Agent Systems,"Yudai Yamazaki, Kentaro Kita, Hiroya Kato, Kento Hasegawa, Seira Hidano",long/watermarked_pdfs/23.pdf
+Long,24,CAAF: Confidence and Agreement-Aware Fusion for Multi-LLM Ensembles,"Momojit Biswas, Preethu Rose Anish",long/watermarked_pdfs/24.pdf
+Long,25,Towards Green Text Generation: Memory-Based Speculative Decoding,Antal van den Bosch,long/watermarked_pdfs/25.pdf
+Long,26,Decomposed Entailment for Factuality Checking and Hallucination Detection,"Achir Oukelmoun, Nasredine Semmar, Gaël de Chalendar",long/watermarked_pdfs/26.pdf
+Long,27,What Did My Adapter Break? A Generation-Level Evaluation of Adaptation and Retention in PEFT-Adapted LLMs,"Guy Bilitski, Kfir Bar, Shai Fine",long/watermarked_pdfs/27.pdf
+Long,28,Translating Classical Poetry into Modern Prose,"Chalamalasetti Kranti, Sowmya Vajjala",long/watermarked_pdfs/28.pdf
+Long,29,Self-Verification is All You Need To Pass The Japanese Bar Examination,Andrew Shin,long/watermarked_pdfs/29.pdf
+Long,30,Automatic vs. Human Evaluation: Benchmarking 26 Automatic Metrics for Clinical Discharge Summaries,"Yu-Wen Chen, Anne de Hond, Laura Veerhoek, Ruben Peters, Karel GM Moons, Artuur Leeuwenberg",long/watermarked_pdfs/30.pdf
+Long,31,Hierarchical Experience Memory for Multi-Agent Task Planning and Subtask Guidance,Marcus Lee,long/watermarked_pdfs/31.pdf
+Long,32,Dynamic Intent-Driven API Pruning for Tool Learning in Small Language Models,"Tzu-Hao Wang, Ting-Chun Yang, Sin-Syuan Wu, Yao-Chung Fan",long/watermarked_pdfs/32.pdf
+Long,33,Confident by Default: A Longitudinal Study of Style Drift and Convergence Across Large Language Model Providers,"Silas Rech, Tom Bäckström",long/watermarked_pdfs/33.pdf
+Long,34,Generating Critical Questions for Arguments: A Large-Scale Analysis of Prompting and Reranking Strategies,"Midhun Kanadan, Benno Stein",long/watermarked_pdfs/34.pdf
+Long,35,From Sounds to Symbols: A Survey of Phonetically and Phonologically Informed Language Generation,"Tyler Loakman, Joseph James, Chenghua Lin",long/watermarked_pdfs/35.pdf
+Long,64,"Do as I Say, Not as You Do: Assessing Public Versus Practitioner Perspectives on the Development of Artificial Intelligence and Language Technologies","Tyler Loakman, Chenghua Lin",short/watermarked_pdfs/64.pdf
+Long,36,Structured Critique Generation Mitigates Toxification in Self-Critique Alignment,"Takeru Mitsumori, Hiroya Takamura, Takashi Inui",long/watermarked_pdfs/36.pdf
+Long,37,EuroAlpaca: Task-Preserving Localisation of Instruction Data for European Languages,"Aleix Sant, Jordi Luque, Carlos Escolano",long/watermarked_pdfs/37.pdf
+Long,38,Mid-Utterance Transition Control for Audio Commentary Generation,"Ryota Kawamatsu, Tatsuya Ishigaki, Hiroya Takamura",long/watermarked_pdfs/38.pdf
+Long,39,Effort and Confidence: Surface Markers in Reasoning Traces Predict Correctness on Insight Puzzles,"Richard A. J. Mann, Pranava Madhyastha",long/watermarked_pdfs/39.pdf
+Long,40,Chain-of-Thought Faithfulness Under GRPO and DPO Fine-Tuning,"Hadi Mohammadi, Anastasia Giachanou",long/watermarked_pdfs/40.pdf
+Long,41,"Trust Stack for Mental Health AI: A Survey of Calibration across Human, Interaction, and AI Layers","Xin Sun, Yue Su, Yifan Mo, Qingyu Meng, Yuxuan Li, Min Chen, Mengyuan Zhang, Saku Sugawara, Charlotte Gerritsen, Sander L. Koole, Koen Hindriks, Jiahuan Pei",long/watermarked_pdfs/41.pdf
+Long,42,Large Language Models for Data Augmentation in Product Matching,"Kateřina Macková, Martin Pilát",long/watermarked_pdfs/42.pdf
+Long,43,Persona as a Dynamical System: Attractor-Based Character Control for Neural Text Generation,"Yu-Yi Chang, HAOCHE CHIU, Hung-Yu Kao",long/watermarked_pdfs/43.pdf
+Long,44,Content Determination Is the Faithfulness Bottleneck: A Computable-Oracle Benchmark for Faithful LLM Explanations of Guardrail Decisions,Arunkumar V,long/watermarked_pdfs/44.pdf
+Long,45,Decoding Path Recovery in Number Generation: Shifting to Intermediate Layers and Top-$k$ Ranks,"Jasivan Alex Sivakumar, Nafise Sadat Moosavi",long/watermarked_pdfs/45.pdf
+Long,46,Cross-Lingual Activation Steering for Multilingual Language Models,"Rhitabrat Pokharel, Ameeta Agrawal, Tanay Nagar",long/watermarked_pdfs/46.pdf
+Long,47,Beyond Natural Language Plans: Structure-Aware Agentic Planning for Query-Focused Table Summarization,"Weijia Zhang, Yifei Yuan, Songgaojun Deng, Evangelos Kanoulas",long/watermarked_pdfs/47.pdf
+Long,48,"Clarify, Abstain or Answer? Strategising in Conversation with Belief-Augmented Generation","Joris Baan, Wilker Aziz, Barbara Plank, Raquel Fernández",long/watermarked_pdfs/48.pdf
+Long,49,A Large-Scale Dataset for Cross-Lingual Multi-Jurisdiction Patent Drafting from Patent Cooperation Treaty Applications,"Trung Phuong Le, Hirofumi Nonaka, Koji Marusaki, Katsuhito Sudoh, Seiya Kawano",long/watermarked_pdfs/49.pdf
+Long,50,Identifying Check-Worthy Claims by Generating the Implicit Content of Enthymemes,"Martial Pastor, Stefan Kok",long/watermarked_pdfs/50.pdf
+Long,51,Beyond Agreement: Compositional Validity in Multidimensional LLM Evaluation,"Savita Bhat, Vasudeva Varma",long/watermarked_pdfs/51.pdf
+Long,52,Perspective-Diverse Utterance Candidate Generation via Input Variation for Race Game Commentary,"Mizuki Arai, Tatsuya Ishigaki, Yusuke Miyao, Hiroya Takamura, Ichiro Kobayashi",long/watermarked_pdfs/52.pdf
+Long,53,Revealing Current Performance of LLMs in Multi-Agent and Long Logical Context by Automatically Playing the Werewolf Game As a Contest,"Yoshinobu Kano, Yuya Harada, Yuto Sahashi, Daisuke Katagami, Kei Harada, Michimasa Inaba, Takeshi Ito, Hirotaka Osawa, Takashi OTSUKI, FUJIO TORIUMI",long/watermarked_pdfs/53.pdf
+Long,54,Pop Quiz! Comparing Educational Assessment Methods for Evaluating Context Utilization vs. Pre-Trained Knowledge in Large Language Models,"Anura Deshpande, Suvaditya Mukherjee, Benjamin Nye, Ella Park, Russell Harral",long/watermarked_pdfs/54.pdf
+Long,55,TENOR: Tension-Enhanced Narrative Planning and Organization for Report Generation,"Aliah Gie Fajardo Zabala, Yi-Shin Chen",long/watermarked_pdfs/55.pdf
+Long,56,"NexusEngine: Ontology-Constrained, Provenance-Grounded, Multi-Modal Generation for Infrastructure Digital Twins","Kanimozhi Uma, Merijn Vanalderweireldt",long/watermarked_pdfs/56.pdf
+Long,57,Probing the Communicative Efficiency of LLMs via Content Selection in Visually Uncommon Reference Games,"Simeon Junker, Manar Ali, Kristina Kobrock, Larissa Koch, Marika Sarzotti, Hendrik Buschmeier, Sina Zarrieß",long/watermarked_pdfs/57.pdf
+Long,58,Are LLM Judges Language-Neutral? A Cross-Lingual Meta-Evaluation on Multilingual Summarization,"Mohammaderfan Koupaei, Amir Esmaeili, Mahshid Khanali, Florian Mai, Patrícia Schmidtová",long/watermarked_pdfs/58.pdf
+Long,59,One Feedback System Does Not Fit All:Localising Data-to-Text Driver Coaching for the UK and Nigeria,"Iniakpokeikiye Peter Thompson, Jawwad Baig, Ehud Reiter, Dewei Yi",long/watermarked_pdfs/59.pdf
+Long,60,Controllable Lexical Alignment in Dialogue Systems,"Sumit Srivastava, Mariët Theune, Alejandro Catala",long/watermarked_pdfs/60.pdf
+Long,61,More Than Rainfall: A Multi-Dimensional Analysis of LLM Flood Cause Multi-document Summarization for Disaster Risk Management,"Jane Arleth dela Cruz, Jarno Van Arkel, Iris Hendrickx, Martha Larson",long/watermarked_pdfs/61.pdf
+Long,62,When More Extractive Summaries Receive Higher Automated Factuality Scores: Evidence from Distilled Scientific Summarization,"Joseph Moretto, Peter A. Beling, Tyler Cody",long/watermarked_pdfs/62.pdf
+Long,63,A Tale of Two Error Categories: Exploring Concealed Trade-Offs in the Errors of Automated Judges in Evaluation of Uncertainty Quantifiers,"Evgenia Ilia, Wilker Aziz",long/watermarked_pdfs/63.pdf
+Long,64,Language-Agnostic Latent Injection for Multilingual Hybrid Reasoning,"Đặng Phương Nam, Nguyen Van Hieu, Nguyen Nam Truong, Phan Duy Hung",long/watermarked_pdfs/64.pdf
+Long,65,Refusal in the Tail: Surfacing Latent Abstention for Context-Refuted Queries,"Hansle Lee, Jaeeun Jang, sangmin kim",long/watermarked_pdfs/65.pdf
+Long,66,Graph Mapping and LLMs Thinking Speed,"Ramazan Ali Bahrami, Ramin Yahyapour",long/watermarked_pdfs/66.pdf
+Long,67,Towards Plug-and-Play Attribute Control Modules in Text Generation: An Exploratory Study of LoRA Portability Across Model Families,"Michela Lorandi, Anya Belz",long/watermarked_pdfs/67.pdf
+Long,68,"Probing, Measuring and Mitigating Activity-Level Gender Associations in Open-Ended Text Generation","Xiangjue Dong, Yibo Wang, Philip S. Yu, James Caverlee",long/watermarked_pdfs/68.pdf
+Long,69,Exploring the feasibility of ontology-based educational question generation with an LLM,"Franco Alberto Cardillo, C. Maria Keet, Zola Mahlaza",long/watermarked_pdfs/69.pdf
+Long,70,AdTEx: Evaluating Large Language Models for Diverse Advertisement Template Expansion,"Hiroto Otake, Peinan Zhang, Yusuke Sakai, Hiroki Ouchi, Taro Watanabe",long/watermarked_pdfs/70.pdf
+Long,71,InduceGuard : Evaluating Induction Resistance of Large Language Models under Multi-turn Prohibited Keyword Elicitation,"Shunichi Yoneda, Yukitake Yoshioka, Yurai Takayanagi, Yumi Fukuda, Ryoma Obara, Yusuke Sakai, Hidetaka Kamigaito, Katsuhiko Hayashi, Shogo Matsuno",long/watermarked_pdfs/71.pdf
+Long,72,ACA-Bot: Evaluating Pedagogical Dialogue Generation in a Spoken LLM-Based Oral Examiner,"Julie Bauer, Krist Shingjergji, Aki Härmä",long/watermarked_pdfs/72.pdf
+Long,73,The Truncation Blind Spot: How Decoding Strategies Systematically Exclude Human-Like Token Choices,"Esteban Garces Arias, Nurzhan Sapargali, Christian Heumann, Matthias Aßenmacher",long/watermarked_pdfs/73.pdf
+Long,74,A Writer–Editor–Critic Pipeline with Deterministic Fact Verification for Football Match Report Generation,"Luís Relvas, Sérgio Nunes, André Restivo",long/watermarked_pdfs/74.pdf
+Long,75,Token Distribution versus Data Volume: Domain Balancing in Multi-Domain Meeting Summarisation,"Ashima Sood, Bryan Gardiner, Joan Condell",long/watermarked_pdfs/75.pdf
+Long,76,Frugal Source-Grounded Detection of Graded Omissions in LLM-Generated French Medical Summaries,"Benouaklil Hodhaifa, Nasredine Semmar, Achir Oukelmoun, Faiza BELBACHIR, Jaafer klila, Hassane Essafi",long/watermarked_pdfs/76.pdf
+Long,77,Comparing Retrieval-Augmented Generation Pipelines for Energy-Aware Code Refactoring,"Youssef Oubelmouh, Pierre CHHIENG, Daoudi Amir Salah Eddine",long/watermarked_pdfs/77.pdf
+Long,78,Confabulation in a Caption-then-Generate Pipeline: Evaluating Vision–Language Generation of Adolescent Health Information,"Abigail Naa Amankwaa Abeo, Steven Smith, Hannah Goss, Michael Scriney",long/watermarked_pdfs/78.pdf
+Long,79,A Multi-Faceted Analytical Framework for Text Quality Evaluation in Creative Open-Ended Generation,Esteban Garces Arias,long/watermarked_pdfs/79.pdf
+Long,1,Rate-Resolved Text Evaluation with Masked Diffusion Language Models,"Yiqi Liu, Kun Zhao, Chenghua Lin, Nafise Sadat Moosavi",long/watermarked_pdfs/1.pdf
+Long,2,"Retell, Reward, Repeat: Reinforcement Learning for Narrative Theory-Informed LLM Story Retelling","David Y. Liu, Xanthe Muston, Dipankar Srirag, Aditya Joshi, Paul Dawson, Sebastian Sequoiah-Grayson",long/watermarked_pdfs/2.pdf
+Long,3,Do We Really Need So Many Tokens? The Performance-Efficiency Trade-off in Tibetan and Sanskrit,"Orr Meir Zwebner, Kai Golan Hashiloni, Guy Bilitski, Oded Hellman, Nir Marciano, Shai Fine, Kfir Bar",long/watermarked_pdfs/3.pdf
+Long,4,A Multi-Stage Agentic Framework for Effective Counter-Narrative Generation and Refinement,"Carmel Kronfeld, Sharva Gogawale, Tetsuro Kobayashi, Irad Ben Gal",long/watermarked_pdfs/4.pdf
+Long,5,CAI-DLLM: Convergence Aware Inference for Diffusion Language Models,"Farhana Amin, Sabiha Afroz, Dimitrios S. Nikolopoulos",long/watermarked_pdfs/5.pdf
+Long,6,M$^{2}$Preserve: A Multidimensional Framework for Evaluating Meaning Preservation in Text Simplification,"Abdullah Barayan, Jose Camacho-Collados, Fernando Alva-Manchego",long/watermarked_pdfs/6.pdf
+Long,7,In Vino Veritas and Vulnerabilities: Examining LLM Safety via Drunk Language Inducement,"Anudeex Shetty, Aditya Joshi, Salil S. Kanhere",long/watermarked_pdfs/7.pdf
+Long,8,Beyond Fine-Tuning: In-Context Learning and Chain-of-Thought for Reasoned Distractor Generation,"Elaf Alhazmi, Quan Z. Sheng, Wei Emma Zhang",long/watermarked_pdfs/8.pdf
+Long,9,Automating Multi-Hop RAG Evaluation via TRIAD: From Context Extraction to Validated Dataset Generation,"Lorenz Brehme, Adam Jatowt",long/watermarked_pdfs/9.pdf
+Long,10,Can LLM Coding Agents Reason About Time Series?,"Filip Rechtorík, Ondrej Dusek, Zdeněk Kasner",long/watermarked_pdfs/10.pdf
+Long,11,Strategies for Span Labeling with Large Language Models,"Danil Semin, Ondrej Dusek, Zdeněk Kasner",long/watermarked_pdfs/11.pdf
+Short,15,You Can't Prefer Emotions You Don't Sample: Intensity Undershoot in DPO-Tuned LLMs,"Hyunwoo Kim, Usama Khalid",short/watermarked_pdfs/15.pdf
+Short,34,Example-Guided Prompting for Document-Level Text Simplification,"Marina Litvak, Ariel Perstin, Ilan Shtilman, Michael Färber",short/watermarked_pdfs/34.pdf
+Short,37,Sleight of Word Benchmark: Can Language Models Notice If Their Own Output Was Tampered With?,Alberto Cetoli,short/watermarked_pdfs/37.pdf
+Short,53,The Impact of Model Size on Detection of LLM Hallucinations,"Matt Boerio, Paul Groth",short/watermarked_pdfs/53.pdf
+Short,75,Assessing Legal Argumentation in Generated Judgments: A Toulmin-Based Evaluation Framework,"Cor Steging, Tadeusz Zbiegień",short/watermarked_pdfs/75.pdf
+Short,112,Heterographic Supervision for Direct Speech-to-Text Translation in Scriptless Tribal Languages,"Prashant Bannulmath, Swapnil Sontakke, Deepak K T",short/watermarked_pdfs/112.pdf
+Short,115,From Full Game State to Live Commentary: A Data-to-Text Pipeline and Corpus for Age of Empires II,Siewart van Wingerden,short/watermarked_pdfs/115.pdf
+Short,120,From Metrics to Meaning: Learning Qualitative Research Methods as a Community,"Adarsa Sivaprasad, Yujun Wang, Mengxuan Sun, David M Howcroft, Ehud Reiter",short/watermarked_pdfs/120.pdf
+Short,124,Distractors for Multiple-choice Questions for Reading Comprehension: Automatic Generation and Evaluation,"Yixi Chen, Shunjie Wang, LI JIAYI, John Sie Yuen Lee",short/watermarked_pdfs/124.pdf
+Short,132,Do LLMs Make More Mistakes If They Do Not Believe the Input Data?,"Peter Kochelka, Aleš Manuel Papáček, Vojtěch Dvořák, Ondrej Dusek",short/watermarked_pdfs/132.pdf
+Short,140,A Cognitively Motivated Multidimensional Framework for Evaluating Metaphor Explanations,"Ana Naveriani, Jakob Suchan, Stefano Zoia, Mehul Bhatt, Antonio Lieto, Gian Luca Pozzato",short/watermarked_pdfs/140.pdf
+Short,152,When Diverse Paraphrases Do Not Help: LLM Data Augmentation for Portuguese Aspect-Based Sentiment Analysis,"Andrew Borges de Campos, Gabriel A. Gomes, Larissa Astrogildo de freitas, Ulisses Brisolara Corrêa",short/watermarked_pdfs/152.pdf
+Short,164,Evaluating Rationale-Grounded Responses for Meme Images via Self-Scoring-Based Selection,"Ryotaro Kanae, Yusuke Sakai, Hidetaka Kamigaito, Taro Watanabe",short/watermarked_pdfs/164.pdf
+Demo,44,"CAP: Contrastive Activation Patching for Locating, Comparing, and Steering Neurons in Multilingual LLMs",Aleksandr Semenikhin,demo/watermarked_pdfs/44.pdf
+Demo,77,PLeW-NLG: Interactive Exploration of Human Evaluation Data across NLG Tasks,"Fahime Same, Leonard W Sprague Jr, Francesco Cangemi",demo/watermarked_pdfs/77.pdf
+Demo,80,A Tool for Collecting Validated Triple Sets for Data-to-Text Generation,"Mark Andrade, Simon Mille, Anya Belz, Brian Davis",demo/watermarked_pdfs/80.pdf
+Demo,81,TruthSplit: Interactive Generation of Multi-Perspective Reasoning Graphs for Contested Claims,"Lion Six, Adrien Zaradez, Thomas Huber, Christina Niklaus",demo/watermarked_pdfs/81.pdf
+Demo,166,SeanchlÓCR: A platform for Transformer-based transcription of Irish Gaelic Script,"Sháhín de Faoite Houshidari, Brady Meade, Ellen Rushe",demo/watermarked_pdfs/166.pdf
+Non-archival,,BikeCoach: A Demo System for Aspect-based Advice Generation Conditioned on Sport Training Protocols,"Matīss Rikters, Tatsuya Ishigaki, Masayuki Kawarada, Shota Kato, Sohei Washino, HirokiYamaguchi",
+Non-archival,,Knowledge-Grounded Generation and Agentic Verification for Describing Swine Health Status from Farm Images,"Eunji Lee, Minseok Kim, Parkhyungwook",
+Non-archival,,Knowledge Graph Prompting for Multi-hop Reasoning,"Al Hasib Mahamud, Yllias Chali",
+Non-archival,,ANVIL: Analogies and Videos for Lecturers,"Yuri Noviello, Anastasiia Birillo, Gosia Migut",
+Non-archival,,A Comparative Evaluation of End-to-End and Pipeline Approaches for Summarisation,"Fahime Same, Saad Mahamood, Srinivas Ramesh Kamath",
+Non-archival,,"Criterion Definitions, Not Criterion Names, Determine What an LLM Judge Measures",Srinivas Harish,
+Non-archival,,VISTA: Verification In Sequential Turn-based Assessment,Ashley Lewis,
+Non-archival,,Dual use issues in the field of Natural Language Generation,Emiel van Miltenburg,
+Non-archival,,Justify your prompts!,"Eduardo Calò, David M Howcroft, Leo Leppänen, Saad Mahamood, Simon Mille, Patrícia Schmidtová, Emiel van Miltenburg",
+Non-archival,,Never Truly Out of Fashion: A Retrospective Look at Evaluation in NLG,"Patrícia Schmidtová, Saad Mahamood, Ondrej Dusek",
+Non-archival,,AI-Assisted Length-Constrained Summarization in News Agency Workflows,"Aleksandra Gabryszak, Damian Jaspar, Shushen Manakhimova, Leonhard Hennig",
+Non-archival,,Reasoning Gets Harder for LLMs Inside A Dialogue,"Ivan Kartáč, Mateusz Lango, Ondrej Dusek",
+Non-archival,,VetScore: Risk-Weighted Fact Verification for Veterinary Long-Form QA with Citations,"Ivan Kartáč, Jan Tovarys, Mateusz Lango, Ondrej Dusek",
+Non-archival,,DeScribe: Discourse-Driven Extraction and Structuring of Claim Verification for Better Faithfulness Evaluation,"Yang Zhong, Yang Janet Liu, Diane Litman",
+Non-archival,,Testing Associative Creativity in Humans and Multimodal LLMs with Difficult-to-Name Visual Stimuli,"Manar Ali, Lisa Gottschalk, Simeon Junker, Lisa Hudalla, Alon Fishman, Joana Cholin, Stefan Kopp, Hendrik Buschmeier, Sina Zarrieß",
+Non-archival,,When Seekers Are Hard to Help: Evaluating Emotional Support Dialogue Systems in Worst-Case Interactions,"Jiajie Yang, Yangchun Li, Guanyi Chen, Rui Fan, Xin Bai, Tingting He",
+Non-archival,,Beyond Single Gold Labels: Human Variability and Conceptualisation in Chinese Classifier Use,"Yongheng Peng, Guanyi Chen, Tingting He",
+Non-archival,,Ontology-Mediated Framework for Generating Answerable Questions and Feedback from Ontologies,"Toky Hajatiana Raboanary, C. Maria Keet",
+Non-archival,,When Wrong Answers Sound Coherent: Evaluating Answer-Conditioned Explanatory Generation in LLMs,"Göktuğ Aslanoğlu, Viswanadh Vadlamani",
+Non-archival,,Preliminary results on predicting bootstrapping NLG resources for low-resourced languages,"Phuthang Makhupane, Leruo Hillary Sharp, Zola Mahlaza, C. Maria Keet",
+Non-archival,,Compliance Assessment and Justification Generation for Journalistic Self-Regulation,"Aleksandra Gabryszak, Danylo Mysak, Shushen Manakhimova, Leonhard Hennig",
+Non-archival,,"Same Text, More Tokens: Layerwise Attention Distortion under Retokenization","Baban Gain, Asif Ekbal",
+Non-archival,,Modular Multilingual Language Models with Language-Specific Embeddings,"Nalin Kumar, Ondrej Dusek",
+Non-archival,,Expert Disagreement as Signal: Evaluating Clinical NLG Without Reference Reports,"Yongxin Zhou, Fabien Ringeval, François Portet",
+Non-archival,,DBpedia Triple Set Validation for Consistent NLG Inputs,"Mark Andrade, Simon Mille, Anya Belz, Brian Davis",
+Non-archival,,Stress Testing NLG Evaluation Metrics with Fine-Grained Semantic Contrasts,Lasha Abzianidze,
+Non-archival,,Calculation Is Not Insight: Qualitative Reasoning for Data-to-Text Generation,Kristýna Onderková,

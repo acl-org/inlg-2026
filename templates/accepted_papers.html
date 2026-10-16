@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block content %}
+
+{{ components.section(section_title) }}
+
+<div class="accepted-papers-page">
+  {% for group in paper_groups %}
+  {% if group.papers %}
+  <section class="accepted-group">
+    <h2>{{ group.heading }} <span class="accepted-count">{{ group.papers | length }}</span></h2>
+    {% if group.note %}<p class="accepted-note">{{ group.note }}</p>{% endif %}
+    <ul class="accepted-list">
+      {% for paper in group.papers %}
+      <li>
+        <div class="accepted-title">
+          {% if paper.pdf_url %}<a href="{{ paper.pdf_url }}" target="_blank" rel="noopener">{{ paper.title }}</a>{% else %}{{ paper.title }}{% endif %}
+          {% if paper.pdf_url %}<a class="accepted-pdf" href="{{ paper.pdf_url }}" target="_blank" rel="noopener">PDF</a>{% endif %}
+        </div>
+        <div class="accepted-authors">{{ paper.authors }}</div>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+  {% endfor %}
+</div>
+
+<style>
+  .accepted-group { border-top: 4px solid #1d5d63; margin-bottom: 2.5rem; }
+  .accepted-group h2 { color: #1d5d63; font-size: 1.5rem; margin: 1rem 0 0.6rem; }
+  .accepted-count { color: #707983; font-size: 0.95rem; font-weight: 400; margin-left: 0.35rem; }
+  .accepted-note { color: #5c6570; font-style: italic; margin: 0 0 0.8rem; }
+  .accepted-list { border-left: 2px solid #e4b64d; list-style: none; margin: 0; padding-left: 1rem; }
+  .accepted-list li { border-bottom: 1px solid #eef1f2; padding: 0.6rem 0; }
+  .accepted-list li:last-child { border-bottom: 0; }
+  .accepted-title { font-weight: 600; }
+  .accepted-title a { color: inherit; }
+  .accepted-title a:hover { color: #1d5d63; }
+  .accepted-pdf { border: 1px solid #1d5d63; border-radius: 3px; color: #1d5d63 !important; font-size: 0.7rem; font-weight: 700; letter-spacing: 0.04em; margin-left: 0.4rem; padding: 0 0.35rem; vertical-align: middle; }
+  .accepted-pdf:hover { background: #1d5d63; color: #fff !important; text-decoration: none; }
+  .accepted-authors { color: #707983; font-size: 0.92rem; margin-top: 0.15rem; }
+</style>
+
+{% endblock %}

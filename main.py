@@ -267,12 +267,44 @@ def tutorials_cfp(tutorial_id):
         raise ValueError("Not found!")
     return render_template("single_md.html", **data)
 
+ACCEPTED_PAPER_GROUPS = [
+    ("Long", "Long papers", None),
+    ("Short", "Short papers", None),
+    ("Demo", "Demo papers", None),
+    (
+        "Non-archival",
+        "Non-Archival submissions",
+        "Presented during the INLG poster sessions and not included in the proceedings.",
+    ),
+]
+
+
 @app.route("/accepted-papers.html")
 def accepted_papers():
     data = _data()
-    data["mdcontent"] = open("sitedata/accepted_papers.md").read()
     data["section_title"] = "Accepted Papers"
-    return render_template("single_md.html", **data)
+    pdf_base = site_data["config"].get("proceedings_pdf_base") or ""
+    with open(
+        os.path.join(site_data_path, "accepted_papers.csv"), newline="", encoding="utf-8-sig"
+    ) as csv_file:
+        rows = list(csv.DictReader(csv_file))
+    groups = []
+    for paper_type, heading, note in ACCEPTED_PAPER_GROUPS:
+        papers = []
+        for row in rows:
+            if row["paper_type"].strip().lower() != paper_type.lower():
+                continue
+            pdf = (row.get("pdf") or "").strip()
+            papers.append(
+                {
+                    "title": row["title"].strip(),
+                    "authors": row["authors"].strip(),
+                    "pdf_url": (pdf_base + pdf) if pdf and pdf_base else "",
+                }
+            )
+        groups.append({"heading": heading, "note": note, "papers": papers})
+    data["paper_groups"] = groups
+    return render_template("accepted_papers.html", **data)
 
 
 @app.route("/keynotes.html")
