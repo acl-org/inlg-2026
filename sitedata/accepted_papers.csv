@@ -94,7 +94,7 @@ Short,132,Do LLMs Make More Mistakes If They Do Not Believe the Input Data?,"Pet
 Short,140,A Cognitively Motivated Multidimensional Framework for Evaluating Metaphor Explanations,"Ana Naveriani, Jakob Suchan, Stefano Zoia, Mehul Bhatt, Antonio Lieto, Gian Luca Pozzato",short/watermarked_pdfs/140.pdf
 Short,152,When Diverse Paraphrases Do Not Help: LLM Data Augmentation for Portuguese Aspect-Based Sentiment Analysis,"Andrew Borges de Campos, Gabriel A. Gomes, Larissa Astrogildo de freitas, Ulisses Brisolara Corrêa",short/watermarked_pdfs/152.pdf
 Short,164,Evaluating Rationale-Grounded Responses for Meme Images via Self-Scoring-Based Selection,"Ryotaro Kanae, Yusuke Sakai, Hidetaka Kamigaito, Taro Watanabe",short/watermarked_pdfs/164.pdf
-Demo,44,"CAP: Contrastive Activation Patching for Locating, Comparing, and Steering Neurons in Multilingual LLMs",Aleksandr Semenikhin,demo/watermarked_pdfs/44.pdf
+Demo,44,"CAP: Contrastive Activation Patching for Locating, Comparing, and Steering Neurons in Multilingual LLMs","Aleksandr Semenikhin, Markus Frey, Ondrej Dušek, Lucie Flek, Patrícia Schmidtová",demo/watermarked_pdfs/44.pdf
 Demo,77,PLeW-NLG: Interactive Exploration of Human Evaluation Data across NLG Tasks,"Fahime Same, Leonard W Sprague Jr, Francesco Cangemi",demo/watermarked_pdfs/77.pdf
 Demo,80,A Tool for Collecting Validated Triple Sets for Data-to-Text Generation,"Mark Andrade, Simon Mille, Anya Belz, Brian Davis",demo/watermarked_pdfs/80.pdf
 Demo,81,TruthSplit: Interactive Generation of Multi-Perspective Reasoning Graphs for Contested Claims,"Lion Six, Adrien Zaradez, Thomas Huber, Christina Niklaus",demo/watermarked_pdfs/81.pdf
