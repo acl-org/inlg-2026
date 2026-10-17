@@ -34,7 +34,7 @@
     <div class="program-sessions">
       {% for session in day.sessions %}
       <article class="program-session">
-        <time class="program-time">{{ session.time }}</time>
+        <time class="program-time">{% set t = session.time | string %}{% if "onwards" in t | lower %}{{ t.split()[0] }}<span class="program-time-note">onwards</span>{% else %}{{ t }}{% endif %}</time>
         <div class="program-session-content">
           <h3>{{ session.title }}</h3>
           {% if session.note %}<span class="program-note">{{ session.note }}</span>{% endif %}
@@ -81,6 +81,7 @@
   .program-location { text-align: right; }
   .program-session { border-top: 1px solid #dce3e5; display: grid; gap: 1rem; grid-template-columns: 7rem 1fr; padding: 1rem 0; }
   .program-time { color: #1d5d63; font-weight: 600; white-space: nowrap; }
+  .program-time-note { color: #707983; display: block; font-size: 0.8rem; font-weight: 400; }
   .program-session-content h3 { display: inline; font-size: 1.05rem; font-weight: 600; margin: 0; }
   .program-note { color: #707983; font-size: 0.9rem; margin-left: 0.5rem; }
   .program-session-location { margin-top: 0.35rem; }
