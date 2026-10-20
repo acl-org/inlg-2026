@@ -126,12 +126,9 @@ days:
         title: "Poster & demo session"
         papers_file: program/poster_5.csv
       - time: 14:00-15:10
-        title: "Generation Challenges (GenChal) session (Part 1)"
+        title: "Generation Challenges (GenChal) session"
         papers_file: program/genchal_papers.csv
       - time: 15:10-15:40
         title: Coffee break
-      - time: 15:40-16:00
-        title: "Generation Challenges (GenChal) session (Continued)"
-        papers_file: program/genchal_papers2.csv
-      - time: 16:00-16:30
+      - time: 15:40-16:10
         title: "Closing ceremony"
